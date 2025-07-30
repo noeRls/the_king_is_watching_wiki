@@ -1,23 +1,18 @@
-Magic School
-============
+Magic School (Kingdom Infrastructure)
 
-Cycle: 110s
+Building Information:
+- Cycle: 110s
 
-Population Requirements: 30 (red cross icon)
+Requirements:
+- Consume 30 crystal per cycle
 
-Function/Description:
-Slowly generates basic spells.
+Production:
+- Slowly generates basic spells
 
-Build Costs:
-- Wood: 50
-- Stone: 40
+Build Cost:
+- 50 Gold
+- 40 Wood
 
-Special Abilities/Bonuses/Effects:
-- Magic School speed: Boosts spell production by 25%
-- Illusion of choice: No longer generates random spells but grants spell choices instead
-
-Additional Notes:
-- Entry-level magical education building
-- Provides controlled spell generation rather than random spell creation
-- The "Illusion of choice" upgrade is particularly valuable for strategic spell selection
-- Requires a moderate population investment to operate
+Upgrades:
+- Magic School Speed: Boosts spell production by 25%
+- Illusion of Choice: No longer generates random spells but grants spell choices instead

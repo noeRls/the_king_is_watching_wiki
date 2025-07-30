@@ -5,15 +5,14 @@ Building Information:
 - Capacity: 4
 
 Requirements:
-- Increases population by 1 (green arrow up)
-- Decreases resources by 10 (red arrow down with resource icon) and 8 (blue gem icon)
-
-Function: Recruits swordsmen
+- Create one unit per cycle
+- Decreases resources by 10 wheat and 8 ore
+- Description: Recruits swordsmen
 
 Build Cost:
-- 15 (resource icon - appears to be wood/material)
-- 100 (red circular resource - appears to be food/supplies)  
-- 50 (blue gem resource)
+- 15 wheat
+- 100 wood
+- 50 ore
 
 SWORDSMAN UNIT STATS:
 
@@ -25,7 +24,7 @@ Base Characteristics:
 Unit Trait:
 +2% to damage dealt by Swordsmen for each Swordsman on the battlefield.
 
-ABILITIES:
+UPGRADES:
 
 Damage dealt by Swordsmen:
 - Increases damage dealt by swordsmen by 100%

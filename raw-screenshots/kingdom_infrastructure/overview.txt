@@ -1,34 +1,28 @@
-Kingdom Infrastructure Overview
-===============================
+Kingdom Infrastructure
 
-This overview shows the complete Kingdom Infrastructure building menu, displaying all available infrastructure buildings that can be constructed to enhance kingdom management, military capabilities, and resource production.
+Building Category: Kingdom Infrastructure
 
-Visible Buildings Include:
-- Research Table (bottom left corner)
-- Tile Enchanter (bottom row, second from left) 
-- Dragons' Bakery (middle-left area)
-- Magic School (middle row)
-- Hospital (middle-right area)
-- King's Statue (top right)
-- Monument to the King's Gaze (Tile Enchanter visible in menu)
-- Magic College
-- Execution Ground
-- Various other infrastructure buildings arranged in a grid layout
+Available Buildings (16 slots):
+Top Row (left to right):
+1. [Unknown building - question mark]
+2. [Unknown building - question mark] 
+3. [Unknown building - question mark]
+4. King's Statue - Administrative monument structure
 
-Menu Organization:
-- Buildings are organized in a 4x4 grid format
-- Some slots show question marks, indicating locked or undiscovered buildings
-- The interface allows players to browse and select different infrastructure options
-- Each building has a distinct visual icon representing its function
+Second Row (left to right):
+5. [Unknown building - question mark]
+6. Magic School - Magical education facility
+7. Hospital - Military support and healing
+8. [Unknown building - question mark]
 
-Categories Represented:
-- Military support buildings (Hospital, Execution Ground)
-- Economic infrastructure (Research Table, Tile Enchanter)
-- Magical facilities (Magic School, Magic College, Dragons' Bakery)
-- Administrative structures (King's Statue, Monument to the King's Gaze)
-- Resource production and enhancement buildings
+Third Row (left to right):
+9. Dragons' Bakery - Enhanced food production facility
+10. Magic College - Advanced magical research
+11. Execution Ground - Military discipline facility
+12. [Unknown building - question mark]
 
-Additional Notes:
-- This represents the full infrastructure tech tree available to players
-- Building placement and strategic selection from this menu is crucial for kingdom development
-- The variety shows the depth of kingdom management options available
+Bottom Row (left to right):
+13. Research Table - Technology advancement facility
+14. Tile Enchanter - Territory enhancement building
+15. [Unknown building - question mark]
+16. [Unknown building - question mark]

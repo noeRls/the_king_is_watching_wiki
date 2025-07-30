@@ -1,14 +1,22 @@
-VETERAN BARRACKS OVERVIEW
+Veteran Barracks
 
-This shows the complete layout of the Veteran Barracks building complex, representing the second tier of military facilities with more advanced magical units:
+Building Category: Military (Intermediate Tier)
 
-Buildings Available:
-- Academy of Nature (middle left position) - Produces Healer Mages
-- Academy of Fire (bottom right position) - Produces Fire Mages
-- Multiple unknown building slots (14 additional slots shown as question marks)
+Available Buildings (16 slots):
+Top Row (left to right):
+1. [Unknown building - question mark]
+2. [Unknown building - question mark]
+3. [Unknown building - question mark]
+4. [Unknown building - question mark]
 
-The Veteran Barracks focuses on magical/arcane units compared to the more basic physical troops from Levy Barracks:
-- Healer Mages (support/healing arcane units)
-- Fire Mages (offensive ranged arcane units)
+Middle Row (left to right):
+5. Academy of Nature - Healer Mage training facility
+6. [Unknown building - question mark]
+7. [Unknown building - question mark]
+8. [Unknown building - question mark]
 
-This represents the intermediate military production facility in "The King Is Watching" game, offering access to specialized magical troops with enhanced abilities and support capabilities.
+Bottom Row (left to right):
+9. [Unknown building - question mark]
+10. [Unknown building - question mark]
+11. [Unknown building - question mark]
+12. Academy of Fire - Fire Mage training facility

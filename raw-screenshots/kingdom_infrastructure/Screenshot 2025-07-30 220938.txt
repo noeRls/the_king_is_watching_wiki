@@ -1,24 +1,18 @@
-Magic College
-=============
+Magic College (Kingdom Infrastructure)
 
-Cycle: 55s
+Building Information:
+- Cycle: 55s
 
-Population Requirements: 45 (red cross icon)
+Requirements:
+- Consume 45 crystal per cycle
 
-Function/Description:
-Generates basic spells.
+Production:
+- Generates basic spells
 
-Build Costs:
-- Crystals: 250
-- Wood: 250
+Build Cost:
+- 250 Crystal
+- 250 Gold
 
-Special Abilities/Bonuses/Effects:
+Upgrades:
 - Magic College speed: Boosts spell production by 20%
 - Illusion of choice: No longer generates random spells but grants spell choices instead
-
-Additional Notes:
-- Advanced version of the Magic School with higher capacity
-- Requires significantly more population (45 vs 30) than Magic School
-- Higher resource investment but better spell generation capabilities
-- The "Illusion of choice" upgrade provides strategic control over spell acquisition
-- More expensive but more efficient than the basic Magic School

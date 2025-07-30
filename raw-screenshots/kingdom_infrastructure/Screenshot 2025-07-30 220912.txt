@@ -1,20 +1,12 @@
-ARENA
+Arena (Kingdom Infrastructure)
 
-Building Information:
-- Cycle: Not specified
-- Capacity: Not specified
-
-Function: Provides 25 morale while active. Multiple arenas do not stack.
+Production:
+- Provides 25 morale while active
+- Multiple arenas do not stack
 
 Build Cost:
-- 300 (red circular resource - appears to be food/supplies)
+- 300 Wood
 
-ABILITIES:
-
-Fight Betting:
-- Earns 1 gold every 3s while working
-
-Higher Morale:
-- Provides additional 15 morale
-
-This entertainment building boosts kingdom morale and generates additional income through gambling activities, making it valuable for maintaining population happiness and economic growth.
+Upgrades:
+- Fight Betting: Earns 1 gold every 3s while working
+- Higher Morale: Provides additional 15 morale

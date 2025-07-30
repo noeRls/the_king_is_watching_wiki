@@ -1,22 +1,18 @@
-HERO STATUE
+Hero Statue (Kingdom Infrastructure)
 
 Building Information:
 - Cycle: 70s
-- Capacity: Not specified
 
 Requirements:
-- Decreases resources by 200 (red circular resource)
+- Decreases resources by 200 Wood
 
-Function: Provides you with troop stat upgrades
+Production:
+- Provides you with troop stat upgrades
 
 Build Cost:
-- 120 (blue gem resource)
-- 120 (bow/arrow resource)
-- 120 (red circular resource - appears to be food/supplies)
+- 120 Crystal
+- 120 Wood
+- 120 Gold
 
-ABILITIES:
-
-Production Speed:
-- Boosts upgrade production by 25%
-
-This monument provides permanent military enhancements and upgrades to your troops, making it a crucial infrastructure building for military development.
+Upgrades:
+- Production Speed: Boosts upgrade production by 25%

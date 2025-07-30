@@ -1,34 +1,30 @@
-ACADEMY OF NATURE
+Academy of Nature (Veteran Barracks)
 
 Building Information:
 - Cycle: 15s
 - Capacity: 3
 
 Requirements:
-- Increases population by 1 (green arrow up)
-- Decreases resources by 55 (resource icon)
+- Create one unit per cycle
+- Consume 55 wheat
 
-Function: Recruits Healer Mages
+Production:
+- Produces: Healer Mages
+- Description: Recruits Healer Mages
 
 Build Cost:
-- 120 (blue gem resource)
-- 55 (tools/iron resource)
-- 120 (red circular resource - appears to be food/supplies)
+- 120 Crystal
+- 55 Metal
+- 120 Wood
 
-HEALER MAGE UNIT STATS:
-
-Base Characteristics:
+Healer Mage Unit Stats:
 - HP: 70
 - Heal: 19
-- Unit Type: [Arcane] (blue circular icon with magical symbol)
+- Unit Type: [Arcane]
 
 Unit Trait:
 +5% HP to [Arcane] troops for each Healer Mage on the battlefield, up to 100%.
 
-ABILITIES:
-
-Healer Mages' Capacity:
-- Increases capacity by 1
-
-Stronger Healing:
-- Healing ability is boosted by 25%
+Upgrades:
+- Healer Mages' Capacity: Increases capacity by 1
+- Stronger Healing: Healing ability is boosted by 25%

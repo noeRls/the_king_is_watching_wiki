@@ -1,26 +1,13 @@
-Monument to the King's Gaze
-===========================
+Monument to the King's Gaze (Kingdom Infrastructure)
 
-Cycle: Not specified
+Production:
+- Adjacent improvements start working without needing to watch them
 
-Function/Description:
-Adjacent improvements start working without needing to watch them.
+Build Cost:
+- 200 Crystal
+- 100 Metal
+- 500 Gold
 
-Build Costs:
-- Crystals: 200
-- Steel: 100
-- Wood: 500
-
-Population Requirements:
-Not specified in the screenshot
-
-Special Abilities/Bonuses/Effects:
+Upgrades:
 - Automation effect: Adjacent buildings operate automatically without player supervision
 - Radius of influence affects neighboring tiles/buildings
-
-Additional Notes:
-- Expensive monument requiring significant resource investment
-- Provides major quality-of-life improvement by automating nearby infrastructure
-- Strategic placement is crucial to maximize the automation benefit
-- High wood cost suggests this is a late-game or high-tier building
-- The "King's Gaze" theme suggests royal/administrative power over the kingdom

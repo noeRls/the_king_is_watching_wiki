@@ -2,25 +2,22 @@ BASIC CONSTRUCTION
 
 Building Information:
 - Cycle: 30s
-- Capacity: Not specified
 
-Function: Once this construction has been active for some time, it can be upgraded into a resource building of your choice to produce any of the following resources: food/supplies, wood/materials, blue gems, and tools/iron.
+Description: Once this construction has been active for some time, it can be upgraded into a resource building of your choice to produce any of the following resources: food/supplies, wood/materials, blue gems, and tools/iron.
 
 Build Cost:
-- 10 (bow/arrow resource)
+- 10 gold
 
-UPGRADE OPTIONS:
+Can transform into:
 
 Wheat Field:
-- Cost: 80 (blue water resource)
+- Cost: 80 water
 
 Sawmill:
-- Cost: 80 (blue water resource)
+- Cost: 80 water
 
 Iron Mine:
-- Cost: 50 (red circular resource) + (resource icon)
+- Cost: 50 wood + 20 wheat
 
 Clay Mine:
-- Cost: 30 (resource icon) + 40 (red circular resource)
-
-This is a flexible foundation building that allows players to choose which specific resource production facility to construct based on their current needs. It serves as a versatile starting point for economic development.
+- Cost: 30 wheat + 40 wood

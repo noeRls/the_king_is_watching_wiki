@@ -5,15 +5,15 @@ Building Information:
 - Capacity: 3
 
 Requirements:
-- Increases population by 1 (green arrow up)
-- Decreases resources by 10 (resource icon) and 8 (another resource icon)
+- Create one unit per cycle
+- Decreases resources by 10 wheat and 8 gold
 
 Function: Recruits crossbowmen
 
 Build Cost:
-- 30 (blue gem resource)
-- 100 (red circular resource - appears to be food/supplies)
-- 30 (bow/arrow resource)
+- 30 ore
+- 100 wood
+- 30 gold
 
 CROSSBOWMAN UNIT STATS:
 
@@ -25,7 +25,7 @@ Base Characteristics:
 Unit Trait:
 +4% to HP of [Warrior] troops for each Crossbowman on the battlefield.
 
-ABILITIES:
+UPGRADES:
 
 Precise Shots:
 - Archers deal double damage once every 5 attacks

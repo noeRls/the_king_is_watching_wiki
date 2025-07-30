@@ -1,24 +1,17 @@
-King's Statue
-=============
+King's Statue (Kingdom Infrastructure)
 
-Cycle: 1s
+Building Information:
+- Cycle: 1s
 
-Population Requirements: 2 (red cross icon)
+Requirements:
+- Consume 2 crystal per cycle
 
-Function/Description:
-Speeds up the King's Ability cooldown recovery while active.
+Production:
+- Speeds up the King's Ability cooldown recovery while active
 
-Build Costs:
-- Iron: 300
+Build Cost:
+- 300 Ore
 
-Special Abilities/Bonuses/Effects:
-- Crystal clarity: 25% chance of receiving extra 1 crystal with each production cycle
+Upgrades:
+- Crystal clarity: 25% chance of receiving extra 1 Crystal with each production cycle
 - Troop inspiration: Passively increases damage dealt by and HP of [Champion] troops by 5%
-
-Additional Notes:
-- Instant construction (1 second build time)
-- Focuses on enhancing the King's tactical abilities
-- Provides economic benefit through crystal production bonus
-- Military enhancement specifically benefits Champion-tier units
-- High iron cost indicates this is a premium military/economic structure
-- The statue serves both practical and inspirational purposes for the kingdom

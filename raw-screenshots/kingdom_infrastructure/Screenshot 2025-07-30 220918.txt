@@ -1,22 +1,17 @@
-WORSHIPPER'S SANCTUARY
+Worshipper's Sanctuary (Kingdom Infrastructure)
 
 Building Information:
 - Cycle: 30s
-- Capacity: Not specified
 
-Function: Sacrifices Black Sheep. Receive permanent morale (1) for each sheep sacrificed.
+Production:
+- Sacrifices Black Sheep
+- Receive permanent morale (1) for each sheep sacrificed
 
 Build Cost:
-- 100 (red circular resource - appears to be food/supplies)
-- 90 (tool/iron resource)
-- 30 (bow/arrow resource)
+- 100 Wood
+- 90 Clay
+- 30 Gold
 
-ABILITIES:
-
-Higher Morale:
-- Boosts morale obtained from sacrificing the sheep by 1. Morale gained before the upgrade is unchanged.
-
-Production Speed:
-- Boosts production by 25%
-
-This religious building provides a way to convert Black Sheep into permanent morale bonuses, offering long-term strategic benefits for kingdom management.
+Upgrades:
+- Higher Morale: Boosts morale obtained from sacrificing the sheep by 1. Morale gained before the upgrade is unchanged.
+- Production Speed: Boosts production by 25%

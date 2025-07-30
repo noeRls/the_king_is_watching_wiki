@@ -5,15 +5,15 @@ Building Information:
 - Capacity: 2
 
 Requirements:
-- Increases population by 1 (green arrow up)
+- Creare one unit per cycle
 - Decreases resources by 8 (resource icon)
 
-Function: Recruits weak peasants to fight for you
+Description: Recruits weak peasants to fight for you
 
 Build Cost:
-- 30 (blue water resource)
-- 15 (red circular resource - appears to be food/supplies)
-- 15 (resource icon - appears to be wood/material)
+- 30 water
+- 15 wood
+- 15 wheat
 
 PEASANT UNIT STATS:
 
@@ -24,5 +24,3 @@ Base Characteristics:
 
 Unit Trait:
 +1% to all production for each Peasant on the battlefield.
-
-This building produces basic military units that also provide economic benefits through their production bonus trait, making peasants useful for both combat and kingdom development.

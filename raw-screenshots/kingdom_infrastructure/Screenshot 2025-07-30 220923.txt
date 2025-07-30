@@ -1,21 +1,10 @@
-Research Table
-=============
+Research Table (Kingdom Infrastructure)
 
-Cycle: 100s
+Building Information:
+- Cycle: 100s
 
-Function/Description:
-Produces blueprints for buildings.
+Production:
+- Produces blueprints for buildings
 
-Build Costs:
-- Crystals: 150
-
-Population Requirements:
-Not specified in the screenshot
-
-Special Abilities/Bonuses/Effects:
-- Essential infrastructure building for generating building blueprints
-- Required for construction and development of the kingdom
-
-Additional Notes:
-- This appears to be a fundamental building for kingdom development
-- The Research Table is necessary for accessing building blueprints before construction
+Build Cost:
+- 150 Water

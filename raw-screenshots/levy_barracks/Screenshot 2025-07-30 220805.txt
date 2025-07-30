@@ -1,33 +1,29 @@
-BONE PIT
+Bone Pit (Levy Barracks)
 
 Building Information:
 - Cycle: 12s
 - Capacity: 3
 
 Requirements:
-- Increases population by 1 (green arrow up)
-- Decreases mana by 13 (red arrow down with blue mana icon)
+- Create one unit per cycle
+- Decreases water by 13
 
-Function: Spawns small skeletons
+Production:
+- Produces: Small Bones (skeleton units)
+- Description: Spawns small skeletons
 
 Build Cost:
-- 40 (red circular resource - appears to be food/supplies)
-- 40 (resource icon - appears to be wood/material)
+- 40 Wood
+- 40 Wheat
 
-SMALL BONES UNIT STATS:
-
-Base Characteristics:
+Small Bones Unit Stats:
 - HP: 45
 - Damage per second: 10
-- Unit Types: [Undead] (purple icon), [Grunt] (brown icon)
+- Unit Types: [Undead], [Grunt]
 
 Unit Trait:
 +2% to damage dealt by and HP of [Undead] troops for each Small Bones on the battlefield.
 
-ABILITIES:
-
-Troop Inspiration:
-- Passively increases damage dealt by and HP of [Undead] troops by 5%
-
-Bone Meal:
-- Grants a 90% chance of receiving 5 flour upon Skeleton's death
+Upgrades:
+- Troop Inspiration: Increases damage dealt by and HP of [Undead] troops by 5%
+- Bone Meal: 90% chance of receiving 5 flour upon Skeleton's death

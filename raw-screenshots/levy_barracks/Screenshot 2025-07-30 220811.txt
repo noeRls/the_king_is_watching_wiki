@@ -5,14 +5,14 @@ Building Information:
 - Capacity: 2
 
 Requirements:
-- Increases population by 1 (green arrow up)
-- Decreases resources by 15 (resource icon) and 5 (red circular resource)
+- Create one unit per cycle
+- Decreases resources by 15 wheat and 5 wood
 
 Function: Produces hunters that slow down enemies with their ranged attacks
 
 Build Cost:
-- 100 (red circular resource - appears to be food/supplies)
-- 50 (resource icon - appears to be wood/material)
+- 100 wood
+- 50 wheat
 
 HUNTER UNIT STATS:
 
@@ -24,7 +24,7 @@ Base Characteristics:
 Unit Trait:
 +10% to attack speed of [Flying] troops for each Hunter on the battlefield, up to 100%.
 
-ABILITIES:
+UPGRADES:
 
 Stinky Nets:
 - Hunters poison their enemies, dealing bonus 10 damage over time

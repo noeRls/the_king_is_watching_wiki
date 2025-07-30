@@ -1,37 +1,31 @@
-ACADEMY OF FIRE
+Academy of Fire (Veteran Barracks)
 
 Building Information:
 - Cycle: 15s
 - Capacity: 3
 
 Requirements:
-- Increases population by 1 (green arrow up)
-- Decreases resources by 50 (resource icon)
+- Create one unit per cycle
+- Decreases resources by 50 wheat
 
-Function: Recruits Fire Mages
+Production:
+- Produces: Fire Mages
+- Description: Recruits Fire Mages
 
 Build Cost:
-- 130 (red circular resource - appears to be food/supplies)
-- 55 (tools/iron resource)
-- 100 (bow/arrow resource)
+- 130 Wood
+- 55 Metal
+- 100 Gold
 
-FIRE MAGE UNIT STATS:
-
-Base Characteristics:
+Unit Stats:
 - HP: 70
 - Damage per second: 29
-- Unit Types: [Arcane] (blue circular icon), [Ranged] (green circular icon)
+- Unit Types: [Arcane], [Ranged]
 
 Unit Trait:
 +5% to damage dealt by [Arcane] troops for each Fire Mage on the battlefield, up to 50%.
 
-ABILITIES:
-
-Combustion:
-- Fireballs set enemies on fire, dealing bonus 6 damage over time
-
-Damage dealt by Mages:
-- Increases damage dealt by Fire Mages by 50%
-
-Fire Mages' Capacity:
-- Increases capacity by 2
+Upgrades:
+- Combustion: Fireballs set enemies on fire, dealing bonus 6 damage over time
+- Damage dealt by Mages: Increases damage dealt by Fire Mages by 50%
+- Fire Mages' Capacity: Increases capacity by 2

@@ -1,18 +1,34 @@
-OTHER BUILDINGS OVERVIEW
+Other Buildings
 
-This shows the complete layout of the "Other" buildings category, which contains miscellaneous structures that don't fit into the main military categories:
+Building Category: Other Buildings
 
-Buildings Available:
-Row 1: 4 unknown building slots (question marks)
-Row 2: Blacksmith's Farm (middle left), Well (middle center-left), 2 unknown slots (middle right area)
-Row 3: 4 unknown building slots (question marks)
-Row 4: 4 unknown building slots (question marks)
-Row 5: Small Peasants' Hut (bottom left), unknown slot (bottom center-left), Basic Construction (bottom right)
+Available Buildings (20 slots):
+Top Row (left to right):
+1. [Unknown building - question mark]
+2. [Unknown building - question mark]
+3. [Unknown building - question mark]
+4. [Unknown building - question mark]
 
-The "Other" category includes:
-- Blacksmith's Farm (multi-resource production facility requiring massive population)
-- Well (basic water production)
-- Small Peasants' Hut (produces peasant units with production bonuses)
-- Basic Construction (flexible foundation that can be upgraded to various resource buildings)
+Second Row (left to right):
+5. Blacksmith's Farm - Multi-resource production facility
+6. Well - Basic water production
+7. [Unknown building - question mark]
+8. [Unknown building - question mark]
 
-This category appears to contain utility buildings, basic resource structures, and flexible construction options that support the kingdom's foundational needs and economic development. These buildings complement the military structures by providing essential resources and civilian units.
+Third Row (left to right):
+9. [Unknown building - question mark]
+10. [Unknown building - question mark]
+11. [Unknown building - question mark]
+12. [Unknown building - question mark]
+
+Fourth Row (left to right):
+13. [Unknown building - question mark]
+14. [Unknown building - question mark]
+15. [Unknown building - question mark]
+16. [Unknown building - question mark]
+
+Bottom Row (left to right):
+17. Small Peasants' Hut - Peasant unit production
+18. [Unknown building - question mark]
+19. [Unknown building - question mark]
+20. Basic Construction - Flexible foundation structure

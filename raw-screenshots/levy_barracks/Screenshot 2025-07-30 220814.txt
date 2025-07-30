@@ -5,15 +5,15 @@ Building Information:
 - Capacity: 3
 
 Requirements:
-- Increases population by 1 (green arrow up)
-- Decreases resources by 12 (resource icon) and 15 (red circular resource)
+- Create one unit per cycle
+- Decreases resources by 12 wheat and 15 wood
 
 Function: Recruits militia
 
 Build Cost:
-- 120 (red circular resource - appears to be food/supplies)
-- 30 (resource icon - appears to be wood/material)
-- 30 (bow/arrow resource)
+- 120 wood
+- 30 wheat
+- 30 gold
 
 MILITIA UNIT STATS:
 
@@ -25,7 +25,7 @@ Base Characteristics:
 Unit Trait:
 +2% to HP of Militias for each Militia on the battlefield.
 
-ABILITIES:
+UPGRADES:
 
 Militia HP:
 - Increases militia HP by 50%
