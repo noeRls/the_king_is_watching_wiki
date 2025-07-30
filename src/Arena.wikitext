@@ -1,0 +1,15 @@
+{{Infobox building
+| name = Arena
+| image = [[File:Arena.png]]
+| category = Kingdom Infrastructure
+| cycle = N/A
+| capacity = N/A
+| build_cost = 300 [[Wood]]
+| description = Provides 25 morale while active. Multiple arenas do not stack.
+}}
+
+The '''Arena''' is a building in the [[Kingdom Infrastructure]] category.
+
+== Upgrades ==
+* '''Fight Betting:''' Earns 1 gold every 3s while working.
+* '''Higher Morale:''' Provides additional 15 morale.

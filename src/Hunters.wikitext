@@ -1,0 +1,28 @@
+{{Infobox building
+| name = Hunters
+| image = [[File:Hunters.png]]
+| category = Levy Barracks
+| cycle = 15s
+| capacity = 2
+| build_cost = 100 [[Wood]], 50 [[Wheat]]
+| description = Produces hunters that slow down enemies with their ranged attacks.
+}}
+
+The '''Hunters''' building is in the [[Levy Barracks]] category. It is used to recruit [[Hunter]]s.
+
+== Production ==
+The Hunters building produces one [[Hunter]] every 15 seconds. It consumes 15 [[Wheat]] and 5 [[Wood]] per cycle.
+
+== Hunter ==
+{{Infobox unit
+| name = Hunter
+| image = 
+| type = Warrior, Ranged
+| hp = 99
+| dps = 3
+| trait = +10% to attack speed of [Flying] troops for each Hunter on the battlefield, up to 100%.
+}}
+
+== Upgrades ==
+* '''Stinky Nets:''' Hunters poison their enemies, dealing bonus 10 damage over time.
+* '''Hunters' Capacity:''' Increases capacity by 2.

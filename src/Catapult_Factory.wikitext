@@ -1,0 +1,28 @@
+{{Infobox building
+| name = Catapult Factory
+| image = [[File:Catapult_factory.png]]
+| category = Elite Barracks
+| cycle = 15s
+| capacity = 1
+| build_cost = 320 [[Wood]], 180 [[Metal]]
+| description = Creates Catapults that can shoot from afar and deal damage in an area of effect.
+}}
+
+The '''Catapult Factory''' is a building in the [[Elite Barracks]] category. It is used to create [[Catapult]]s.
+
+== Production ==
+The Catapult Factory produces one [[Catapult]] every 15 seconds. It consumes 90 [[Metal]] per cycle.
+
+== Catapult ==
+{{Infobox unit
+| name = Catapult
+| image = 
+| type = Ranged
+| hp = 150
+| dps = 33
+| trait = +10% to HP of [Grunt] troops for each Catapult on the battlefield, up to 100%.
+}}
+
+== Upgrades ==
+* '''Catapult Capacity:''' Increases capacity by 1.
+* '''Stun Chance:''' Catapults have a 20% chance of stunning enemies.

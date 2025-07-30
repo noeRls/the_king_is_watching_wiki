@@ -1,0 +1,3 @@
+This category contains buildings that produce advanced resources.
+
+{{#categorytree:Advanced Production|mode=pages|depth=0}}

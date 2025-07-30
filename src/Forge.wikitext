@@ -1,0 +1,18 @@
+{{Infobox building
+| name = Forge
+| image = [[File:Forge.png]]
+| category = Advanced Production
+| cycle = 1.50s
+| capacity = N/A
+| build_cost = 55 [[Gold]], 30 [[Ore]]
+| description = Smelts ore into metal.
+}}
+
+The '''Forge''' is a building in the [[Advanced Production]] category. It produces [[Metal]] from [[Iron Ore]].
+
+== Production ==
+The Forge consumes 1 [[Iron Ore]] to produce 1 [[Metal]].
+
+== Upgrades ==
+* '''Efficient processing:''' Increases efficiency and speed. Now consumes 3 [[Iron Ore]] to produce 2 [[Metal]].
+* '''Troop inspiration:''' Passively increases damage dealt by and HP of [[Ranged]] troops by 5%.

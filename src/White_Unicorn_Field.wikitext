@@ -1,0 +1,28 @@
+{{Infobox building
+| name = White Unicorn Field
+| image = [[File:White_unicorn_field.png]]
+| category = Elite Barracks
+| cycle = 17s
+| capacity = 3
+| build_cost = 400 [[Crystal]]
+| description = Spawns White Unicorns.
+}}
+
+The '''White Unicorn Field''' is a building in the [[Elite Barracks]] category. It is used to spawn [[White Unicorn]]s.
+
+== Production ==
+The White Unicorn Field produces one [[White Unicorn]] every 17 seconds. It consumes 70 [[Crystal]] per cycle.
+
+== White Unicorn ==
+{{Infobox unit
+| name = White Unicorn
+| image = 
+| type = Champion, Arcane
+| hp = 600
+| dps = 38
+| trait = +30% to damage dealt if Black Unicorn is present.
+}}
+
+== Upgrades ==
+* '''Spell Damage:''' Each Unicorn increases spell damage dealt by 10%.
+* '''Unicorns' HP:''' Increases Unicorns' HP by 100%.

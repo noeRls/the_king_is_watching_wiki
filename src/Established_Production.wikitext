@@ -1,0 +1,3 @@
+This category contains buildings that are upgraded versions of basic production buildings.
+
+{{#categorytree:Established Production|mode=pages|depth=0}}

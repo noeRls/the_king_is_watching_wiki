@@ -1,0 +1,40 @@
+{{Infobox resource
+| name = Wood
+| image = 
+| description = A basic building material.
+}}
+
+'''Wood''' is a basic resource used for construction and production.
+
+== How to Obtain ==
+* [[Tree]]
+* [[Sawmill (Established)]]
+
+== Used For ==
+* [[Clay Mine]]
+* [[Big Well]]
+* [[Iron Mine]]
+* [[Crystal Mine]]
+* [[Small Peasants' Hut]]
+* [[Blacksmith's Farm]]
+* [[Basic Construction]]
+* [[Swordsmen Barracks]]
+* [[Militia Camp]]
+* [[Hunters]]
+* [[Bone Pit]]
+* [[Archery]]
+* [[Academy of Nature]]
+* [[Academy of Fire]]
+* [[Dragon Hatchery]]
+* [[Catapult Factory]]
+* [[Ballista Factory]]
+* [[Academy of Lightning]]
+* [[Worshippers' Sanctuary]]
+* [[Brick Factory]]
+* [[Arena]]
+* [[Hospital]]
+* [[Hero Statue]]
+* [[Magic School]]
+* [[Fuel Pump]]
+* [[Market]]
+* [[Mill]]

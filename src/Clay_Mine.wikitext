@@ -1,0 +1,11 @@
+{{Infobox building
+| name = Clay Mine
+| image = [[File:Clay_mine.png]]
+| category = Basic Production
+| cycle = 0.80s
+| capacity = 200
+| build_cost = 10 [[Wheat]], 12 [[Wood]]
+| description = Mines clay. Yield is limited.
+}}
+
+The '''Clay Mine''' is a building in the [[Basic Production]] category. It produces [[Clay]].

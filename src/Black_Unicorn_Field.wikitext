@@ -1,0 +1,28 @@
+{{Infobox building
+| name = Black Unicorn Field
+| image = [[File:Black_unicorn_field.png]]
+| category = Elite Barracks
+| cycle = 10s
+| capacity = 3
+| build_cost = 150 [[Wine]], 80 [[Oil]]
+| description = Spawns Black Unicorns.
+}}
+
+The '''Black Unicorn Field''' is a building in the [[Elite Barracks]] category. It is used to spawn [[Black Unicorn]]s.
+
+== Production ==
+The Black Unicorn Field produces one [[Black Unicorn]] every 10 seconds. It consumes 30 [[Wine]] and 30 [[Oil]] per cycle.
+
+== Black Unicorn ==
+{{Infobox unit
+| name = Black Unicorn
+| image = 
+| type = Champion, Arcane
+| hp = 600
+| dps = 33
+| trait = +30% to damage dealt if White Unicorn is present.
+}}
+
+== Upgrades ==
+* '''Damage dealt by Black Unicorns:''' Increases damage dealt by Black Unicorns by 100%.
+* '''Boosters of Morale:''' Each Black Unicorn increases morale by 5.

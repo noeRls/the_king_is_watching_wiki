@@ -1,0 +1,28 @@
+{{Infobox building
+| name = Bone Pit
+| image = [[File:Bone_pit.png]]
+| category = Levy Barracks
+| cycle = 12s
+| capacity = 3
+| build_cost = 40 [[Wood]], 40 [[Wheat]]
+| description = Spawns small skeletons.
+}}
+
+The '''Bone Pit''' is a building in the [[Levy Barracks]] category. It is used to spawn [[Small Bones]].
+
+== Production ==
+The Bone Pit produces one [[Small Bones]] every 12 seconds. It consumes 13 [[Water]] per cycle.
+
+== Small Bones ==
+{{Infobox unit
+| name = Small Bones
+| image = 
+| type = Undead, Grunt
+| hp = 45
+| dps = 10
+| trait = +2% to damage dealt by and HP of [Undead] troops for each Small Bones on the battlefield.
+}}
+
+== Upgrades ==
+* '''Troop Inspiration:''' Increases damage dealt by and HP of [Undead] troops by 5%.
+* '''Bone Meal:''' 90% chance of receiving 5 flour upon Skeleton's death.

@@ -1,0 +1,15 @@
+{{Infobox building
+| name = Crystal Mine (Established)
+| image = [[File:Crystal_mine_established.png]]
+| category = Established Production
+| cycle = 1s
+| capacity = 1000
+| build_cost = 55 [[Gold]], 25 [[Ore]], 25 [[Wood]]
+| description = Produces crystals.
+}}
+
+The '''Crystal Mine (Established)''' is a building in the [[Established Production]] category. It produces [[Crystal]].
+
+== Upgrades ==
+* '''Magic aura:''' Passively increases spell damage dealt by 5%.
+* '''Crystal Mine production:''' Boosts production by 30%.

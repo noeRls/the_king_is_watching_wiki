@@ -1,0 +1,15 @@
+{{Infobox building
+| name = Vineyard (Established)
+| image = [[File:Vineyard_established.png]]
+| category = Established Production
+| cycle = 1s
+| capacity = 1000
+| build_cost = 50 [[Gold]], 30 [[Wheat]]
+| description = Produces grapes.
+}}
+
+The '''Vineyard (Established)''' is a building in the [[Established Production]] category. It produces [[Grapes]].
+
+== Upgrades ==
+* '''Vineyard production:''' Boosts production by 30%.
+* '''Grape varieties:''' Each active vineyard provides 5 morale.

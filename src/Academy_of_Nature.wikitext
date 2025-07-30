@@ -1,0 +1,28 @@
+{{Infobox building
+| name = Academy of Nature
+| image = [[File:Academy_of_nature.png]]
+| category = Veteran Barracks
+| cycle = 15s
+| capacity = 3
+| build_cost = 120 [[Crystal]], 55 [[Metal]], 120 [[Wood]]
+| description = Recruits Healer Mages.
+}}
+
+The '''Academy of Nature''' is a building in the [[Veteran Barracks]] category. It is used to recruit [[Healer Mage]]s.
+
+== Production ==
+The Academy of Nature produces one [[Healer Mage]] every 15 seconds. It consumes 55 [[Wheat]] per cycle.
+
+== Healer Mage ==
+{{Infobox unit
+| name = Healer Mage
+| image = 
+| type = Arcane
+| hp = 70
+| heal = 19
+| trait = +5% HP to [Arcane] troops for each Healer Mage on the battlefield, up to 100%.
+}}
+
+== Upgrades ==
+* '''Healer Mages' Capacity:''' Increases capacity by 1.
+* '''Stronger Healing:''' Healing ability is boosted by 25%.

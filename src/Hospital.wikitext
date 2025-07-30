@@ -1,0 +1,15 @@
+{{Infobox building
+| name = Hospital
+| image = [[File:Hospital.png]]
+| category = Kingdom Infrastructure
+| cycle = 1s
+| capacity = N/A
+| build_cost = 280 [[Wood]]
+| description = Heals your injured troops while active.
+}}
+
+The '''Hospital''' is a building in the [[Kingdom Infrastructure]] category.
+
+== Upgrades ==
+* '''Masters of healing:''' Heals 50% more.
+* '''Masters of morale:''' Each active hospital provides 4 morale.

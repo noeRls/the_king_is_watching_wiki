@@ -1,0 +1,11 @@
+{{Infobox building
+| name = Big Well
+| image = [[File:Big_well.png]]
+| category = Basic Production
+| cycle = 0.80s
+| capacity = 200
+| build_cost = 20 [[Wood]]
+| description = Produces more water.
+}}
+
+The '''Big Well''' is a building in the [[Basic Production]] category. It produces 2 [[Water]] per cycle.

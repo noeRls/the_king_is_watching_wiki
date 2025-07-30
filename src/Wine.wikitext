@@ -1,0 +1,13 @@
+{{Infobox resource
+| name = Wine
+| image = 
+| description = A luxury resource.
+}}
+
+'''Wine''' is a luxury resource.
+
+== How to Obtain ==
+* '''Unknown'''
+
+== Used For ==
+* [[Black Unicorn Field]]

@@ -1,0 +1,15 @@
+{{Infobox building
+| name = Iron Mine (Established)
+| image = [[File:Iron_mine_established.png]]
+| category = Established Production
+| cycle = 1s
+| capacity = 1000
+| build_cost = 50 [[Wood]], 25 [[Wheat]]
+| description = Produces ore.
+}}
+
+The '''Iron Mine (Established)''' is a building in the [[Established Production]] category. It produces [[Ore]].
+
+== Upgrades ==
+* '''Troop inspiration:''' Passively increases damage dealt by and HP of [[Warrior]] troops by 5%.
+* '''Iron Mine production:''' Boosts production by 30%.

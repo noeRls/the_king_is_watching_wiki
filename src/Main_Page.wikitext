@@ -1,0 +1,18 @@
+Welcome to the The King is Watching Wiki!
+
+This wiki is a community-driven project to document everything about the game The King is Watching.
+
+== Buildings ==
+
+* [[Basic Production]]
+* [[Established Production]]
+* [[Advanced Production]]
+* [[Levy Barracks]]
+* [[Veteran Barracks]]
+* [[Elite Barracks]]
+* [[Kingdom Infrastructure]]
+* [[Other]]
+
+== Resources ==
+
+* [[Resources]]

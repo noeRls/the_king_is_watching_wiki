@@ -1,0 +1,3 @@
+This category contains buildings that provide various bonuses and unique functions to the kingdom.
+
+{{#categorytree:Kingdom Infrastructure|mode=pages|depth=0}}

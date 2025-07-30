@@ -1,0 +1,27 @@
+{{Infobox building
+| name = Lion Circus
+| image = [[File:Lion_circus.png]]
+| category = Elite Barracks
+| cycle = 10s
+| capacity = 4
+| build_cost = 100 [[Meat]], 20 [[Wheat]]
+| description = Spawns Griffins.
+}}
+
+The '''Lion Circus''' is a building in the [[Elite Barracks]] category. It is used to spawn [[Griffin]]s.
+
+== Production ==
+The Lion Circus produces one [[Griffin]] every 10 seconds. It consumes 20 [[Meat]] and 20 [[Wheat]] per cycle.
+
+== Griffin ==
+{{Infobox unit
+| name = Griffin
+| image = 
+| type = Rider, Flying
+| hp = 430
+| dps = 40
+| trait = +2% to HP of Griffins for each Griffin on the battlefield.
+}}
+
+== Upgrades ==
+* '''Versatility:''' Griffins receive bonuses from all troop classes and are counted as all-class. Their cost to produce is increased by 100%.

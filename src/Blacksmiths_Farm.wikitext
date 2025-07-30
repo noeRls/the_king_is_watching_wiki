@@ -1,0 +1,14 @@
+{{Infobox building
+| name = Blacksmith's Farm
+| image = [[File:Blacksmiths_farm.png]]
+| category = Other
+| cycle = 2s
+| capacity = 500
+| build_cost = 40 [[Wood]], 40 [[Wheat]]
+| description = Produces multiple resources at the same time but slower.
+}}
+
+The '''Blacksmith's Farm''' is a building in the [[Other]] category. It produces both [[Ore]] and [[Wheat]] at the same time.
+
+== Production ==
+The Blacksmith's Farm produces 1 [[Ore]] and 1 [[Wheat]] every 2 seconds.

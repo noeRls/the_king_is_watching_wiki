@@ -1,0 +1,31 @@
+{{Infobox resource
+| name = Gold
+| image = 
+| description = The primary currency.
+}}
+
+'''Gold''' is the primary currency used for most transactions.
+
+== How to Obtain ==
+* [[Gold Mine]]
+* [[Gold Mine (Established)]]
+
+== Used For ==
+* [[Crystal Mine]]
+* [[Grape Bushes]]
+* [[Basic Construction]]
+* [[Swordsmen Barracks]]
+* [[Militia Camp]]
+* [[Archery]]
+* [[Academy of Fire]]
+* [[Dragon Hatchery]]
+* [[Worshippers' Sanctuary]]
+* [[Fairy Fountain]]
+* [[Hero Statue]]
+* [[Magic School]]
+* [[Magic College]]
+* [[Tile Enchanter]]
+* [[Tile Enchanter (Epic)]]
+* [[Wheel of Fortune]]
+* [[Forge]]
+* [[Mill]]

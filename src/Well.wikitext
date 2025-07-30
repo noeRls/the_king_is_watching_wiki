@@ -1,0 +1,11 @@
+{{Infobox building
+| name = Well
+| image = [[File:Well.png]]
+| category = Other
+| cycle = 0.80s
+| capacity = N/A
+| build_cost = None
+| description = Produces water.
+}}
+
+The '''Well''' is a fundamental resource production building in the [[Other]] category that generates [[Water]].

@@ -1,0 +1,19 @@
+{{Infobox resource
+| name = Iron Ore
+| image = 
+| description = A raw material for metal production.
+}}
+
+'''Iron Ore''' is a raw material used to produce [[Metal]].
+
+== How to Obtain ==
+* [[Iron Mine]]
+* [[Iron Mine (Established)]]
+
+== Used For ==
+* [[Crystal Mine]]
+* [[Swordsmen Barracks]]
+* [[Archery]]
+* [[King's Statue]]
+* [[Fuel Pump]]
+* [[Forge]]

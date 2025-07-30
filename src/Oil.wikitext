@@ -1,0 +1,15 @@
+{{Infobox resource
+| name = Oil
+| image = 
+| description = An advanced resource.
+}}
+
+'''Oil''' is an advanced resource.
+
+== How to Obtain ==
+* '''Unknown'''
+
+== Used For ==
+* [[Black Unicorn Field]]
+* [[Dragons' Bakery]]
+* [[Tile Enchanter (Legendary)]]

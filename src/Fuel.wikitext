@@ -1,0 +1,10 @@
+{{Infobox resource
+| name = Fuel
+| image = 
+| description = An advanced resource for powerful buildings.
+}}
+
+'''Fuel''' is an advanced resource.
+
+== How to Obtain ==
+* [[Fuel Pump]]

@@ -1,0 +1,16 @@
+{{Infobox resource
+| name = Clay
+| image = 
+| description = A material used for construction.
+}}
+
+'''Clay''' is a material used for construction.
+
+== How to Obtain ==
+* [[Clay Mine]]
+* [[Clay Mine (Established)]]
+
+== Used For ==
+* [[Crystal Castle]]
+* [[Worshippers' Sanctuary]]
+* [[Brick Factory]]

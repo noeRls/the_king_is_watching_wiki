@@ -1,0 +1,15 @@
+{{Infobox building
+| name = Worshipper's Sanctuary
+| image = [[File:Worshippers_sanctuary.png]]
+| category = Kingdom Infrastructure
+| cycle = 30s
+| capacity = N/A
+| build_cost = 100 [[Wood]], 90 [[Clay]], 30 [[Gold]]
+| description = Sacrifices Black Sheep. Receive permanent morale (1) for each sheep sacrificed.
+}}
+
+The '''Worshipper's Sanctuary''' is a building in the [[Kingdom Infrastructure]] category.
+
+== Upgrades ==
+* '''Higher Morale:''' Boosts morale obtained from sacrificing the sheep by 1. Morale gained before the upgrade is unchanged.
+* '''Production Speed:''' Boosts production by 25%.

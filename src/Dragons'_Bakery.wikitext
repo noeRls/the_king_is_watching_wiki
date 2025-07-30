@@ -1,0 +1,15 @@
+{{Infobox building
+| name = Dragons' Bakery
+| image = [[File:Dragons_bakery.png]]
+| category = Kingdom Infrastructure
+| cycle = 59s
+| capacity = N/A
+| build_cost = 10 [[Wheat]], 50 [[Oil]]
+| description = Bakes Flour Dragons into Ash Dragons.
+}}
+
+The '''Dragons' Bakery''' is a building in the [[Kingdom Infrastructure]] category.
+
+== Upgrades ==
+* '''Production Speed:''' Boosts production by 30%.
+* '''Magic Scales:''' Receive 100 [[Crystal]] after baking a Dragon.

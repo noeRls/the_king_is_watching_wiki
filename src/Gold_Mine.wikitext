@@ -1,0 +1,11 @@
+{{Infobox building
+| name = Gold Mine
+| image = [[File:Gold_mine.png]]
+| category = Basic Production
+| cycle = 0.80s
+| capacity = 200
+| build_cost = 75 [[Gold]]
+| description = Mines gold. Yield is limited.
+}}
+
+The '''Gold Mine''' is a building in the [[Basic Production]] category. It produces [[Gold]].

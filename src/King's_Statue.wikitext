@@ -1,0 +1,18 @@
+{{Infobox building
+| name = King's Statue
+| image = [[File:Kings_statue.png]]
+| category = Kingdom Infrastructure
+| cycle = 1s
+| capacity = N/A
+| build_cost = 300 [[Ore]]
+| description = Speeds up the King's Ability cooldown recovery while active.
+}}
+
+The '''King's Statue''' is a building in the [[Kingdom Infrastructure]] category.
+
+== Production ==
+The King's Statue consumes 2 [[Crystal]] per cycle.
+
+== Upgrades ==
+* '''Crystal clarity:''' 25% chance of receiving extra 1 [[Crystal]] with each production cycle.
+* '''Troop inspiration:''' Passively increases damage dealt by and HP of [[Champion]] troops by 5%.

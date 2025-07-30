@@ -1,0 +1,11 @@
+{{Infobox building
+| name = Research Table
+| image = [[File:Research_table.png]]
+| category = Kingdom Infrastructure
+| cycle = 100s
+| capacity = N/A
+| build_cost = 150 [[Water]]
+| description = Produces blueprints for buildings.
+}}
+
+The '''Research Table''' is a building in the [[Kingdom Infrastructure]] category.

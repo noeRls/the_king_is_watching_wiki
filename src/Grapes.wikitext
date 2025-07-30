@@ -1,0 +1,11 @@
+{{Infobox resource
+| name = Grapes
+| image = 
+| description = A resource used to produce other goods.
+}}
+
+'''Grapes''' are a resource used to produce other goods.
+
+== How to Obtain ==
+* [[Grape Bushes]]
+* [[Vineyard (Established)]]

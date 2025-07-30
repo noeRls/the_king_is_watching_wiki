@@ -1,0 +1,11 @@
+{{Infobox building
+| name = Grape Bushes
+| image = [[File:Grape_bushes.png]]
+| category = Basic Production
+| cycle = 0.80s
+| capacity = 200
+| build_cost = 15 [[Gold]], 10 [[Wheat]]
+| description = Produces grapes. Yield is limited.
+}}
+
+The '''Grape Bushes''' is a building in the [[Basic Production]] category. It produces [[Grapes]].

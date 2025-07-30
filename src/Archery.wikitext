@@ -1,0 +1,29 @@
+{{Infobox building
+| name = Archery
+| image = [[File:Archery.png]]
+| category = Levy Barracks
+| cycle = 15s
+| capacity = 3
+| build_cost = 30 [[Ore]], 100 [[Wood]], 30 [[Gold]]
+| description = Recruits crossbowmen.
+}}
+
+The '''Archery''' is a building in the [[Levy Barracks]] category. It is used to recruit [[Crossbowman|Crossbowmen]].
+
+== Production ==
+The Archery produces one [[Crossbowman]] every 15 seconds. It consumes 10 [[Wheat]] and 8 [[Gold]] per cycle.
+
+== Crossbowman ==
+{{Infobox unit
+| name = Crossbowman
+| image = 
+| type = Ranged
+| hp = 50
+| dps = 13
+| trait = +4% to HP of [Warrior] troops for each Crossbowman on the battlefield.
+}}
+
+== Upgrades ==
+* '''Precise Shots:''' Archers deal double damage once every 5 attacks.
+* '''Archers' Capacity:''' Increases capacity by 2.
+* '''Stunning Arrows:''' Archers stun enemies at full HP for 2s.

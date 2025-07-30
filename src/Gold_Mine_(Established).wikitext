@@ -1,0 +1,15 @@
+{{Infobox building
+| name = Gold Mine (Established)
+| image = [[File:Gold_mine_established.png]]
+| category = Established Production
+| cycle = 1.50s
+| capacity = 1000
+| build_cost = 80 [[Gold]], 80 [[Metal]], 50 [[Wood]]
+| description = Produces gold.
+}}
+
+The '''Gold Mine (Established)''' is a building in the [[Established Production]] category. It produces [[Gold]].
+
+== Upgrades ==
+* '''Gold Mine production:''' Boosts production by 25%.
+* '''Rich veins:''' 50% chance of receiving extra 2 [[Gold]] with each production cycle.

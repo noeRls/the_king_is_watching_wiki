@@ -1,0 +1,15 @@
+{{Infobox building
+| name = Execution Ground
+| image = [[File:Execution_ground.png]]
+| category = Kingdom Infrastructure
+| cycle = 15s
+| capacity = N/A
+| build_cost = 120 [[Wood]]
+| description = Executes one of your [Grunt] units and provides Denarii for each unit.
+}}
+
+The '''Execution Ground''' is a building in the [[Kingdom Infrastructure]] category.
+
+== Upgrades ==
+* '''High Bounties:''' Gain 2 extra per unit executed.
+* '''Troop Inspiration:''' Passively increases damage dealt by and HP of [[Grunt]] troops by 5%.

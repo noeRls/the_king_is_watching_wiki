@@ -1,0 +1,15 @@
+{{Infobox building
+| name = Wheat Field (Established)
+| image = [[File:Wheat_field_established.png]]
+| category = Established Production
+| cycle = 0.80s
+| capacity = 1000
+| build_cost = 80 [[Water]]
+| description = Produces wheat.
+}}
+
+The '''Wheat Field (Established)''' is a building in the [[Established Production]] category. It produces [[Wheat]].
+
+== Upgrades ==
+* '''Farm production:''' Boosts production by 30%.
+* '''Gold diggers:''' 25% chance of receiving extra 1 [[Gold]] with each production cycle.

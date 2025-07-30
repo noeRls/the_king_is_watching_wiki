@@ -1,0 +1,14 @@
+{{Infobox building
+| name = Wheel of Fortune
+| image = [[File:Wheel_of_fortune.png]]
+| category = Kingdom Infrastructure
+| cycle = 110s
+| capacity = N/A
+| build_cost = 100 [[Gold]]
+| description = Creates a small resource pack.
+}}
+
+The '''Wheel of Fortune''' is a building in the [[Kingdom Infrastructure]] category.
+
+== Upgrades ==
+* '''Production Speed:''' Boosts production by 25%.

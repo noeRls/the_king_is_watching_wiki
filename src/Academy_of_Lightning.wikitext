@@ -1,0 +1,29 @@
+{{Infobox building
+| name = Academy of Lightning
+| image = [[File:Academy_of_lightning.png]]
+| category = Elite Barracks
+| cycle = 25s
+| capacity = 3
+| build_cost = 100 [[Metal]], 200 [[Wood]]
+| description = Recruits Lightning Mages.
+}}
+
+The '''Academy of Lightning''' is a building in the [[Elite Barracks]] category. It is used to recruit [[Lightning Mage]]s.
+
+== Production ==
+The Academy of Lightning produces one [[Lightning Mage]] every 25 seconds. It consumes 100 [[Wheat]] per cycle.
+
+== Lightning Mage ==
+{{Infobox unit
+| name = Lightning Mage
+| image = 
+| type = Arcane, Ranged
+| hp = 100
+| dps = 27
+| trait = +5% to spell damage dealt by each Lightning Mage on the battlefield.
+}}
+
+== Upgrades ==
+* '''Lightning Mages' Capacity:''' Increases capacity by 2.
+* '''HP and Damage:''' Increases damage dealt by and HP of Lightning Mages by 50%.
+* '''Jumping Lightning:''' Extra lightning jumps (2).

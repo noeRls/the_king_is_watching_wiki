@@ -1,0 +1,11 @@
+{{Infobox building
+| name = Crystal Mine
+| image = [[File:Crystal_mine.png]]
+| category = Basic Production
+| cycle = 0.80s
+| capacity = 200
+| build_cost = 15 [[Gold]], 10 [[Ore]], 10 [[Wood]]
+| description = Mines crystals. Yield is limited.
+}}
+
+The '''Crystal Mine''' is a building in the [[Basic Production]] category. It produces [[Crystal]].

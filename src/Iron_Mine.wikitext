@@ -1,0 +1,11 @@
+{{Infobox building
+| name = Iron Mine
+| image = [[File:Iron_mine.png]]
+| category = Basic Production
+| cycle = 0.80s
+| capacity = 200
+| build_cost = 15 [[Wood]], 8 [[Wheat]]
+| description = Mines ore. Yield is limited.
+}}
+
+The '''Iron Mine''' is a building in the [[Basic Production]] category. It produces [[Iron Ore]].

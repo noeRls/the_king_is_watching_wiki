@@ -1,0 +1,26 @@
+{{Infobox building
+| name = Small Peasants' Hut
+| image = [[File:Small_peasants_hut.png]]
+| category = Other
+| cycle = 10s
+| capacity = 2
+| build_cost = 30 [[Water]], 15 [[Wood]], 15 [[Wheat]]
+| description = Recruits weak peasants to fight for you.
+}}
+
+The '''Small Peasants' Hut''' is a building in the [[Other]] category. It is used to recruit [[Peasant]]s.
+
+== Production ==
+The Small Peasants' Hut produces one [[Peasant]] every 10 seconds. It consumes 8 of an unspecified resource per cycle.
+
+== Peasant ==
+{{Infobox unit
+| name = Peasant
+| image = 
+| type = Grunt
+| hp = 35
+| dps = 10
+| trait = +1% to all production for each Peasant on the battlefield.
+}}
+
+The '''Peasant''' is a [[Grunt]] unit with low HP and damage. However, they provide a bonus to all production, making them useful for boosting your economy.

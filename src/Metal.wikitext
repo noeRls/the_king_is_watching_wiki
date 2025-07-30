@@ -1,0 +1,19 @@
+{{Infobox resource
+| name = Metal
+| image = 
+| description = A refined material used for advanced construction and units.
+}}
+
+'''Metal''' is an advanced resource produced from [[Iron Ore]].
+
+== How to Obtain ==
+* [[Forge]]
+
+== Used For ==
+* [[Academy of Nature]]
+* [[Academy of Fire]]
+* [[Ballista Factory]]
+* [[Catapult Factory]]
+* [[Academy of Lightning]]
+* [[Monument to the King's Gaze]]
+* [[Fuel Pump]]

@@ -1,0 +1,21 @@
+{{Infobox resource
+| name = Water
+| image = 
+| description = A fundamental resource for life and production.
+}}
+
+'''Water''' is a fundamental resource used for various purposes.
+
+== How to Obtain ==
+* [[Well]]
+* [[Big Well]]
+
+== Used For ==
+* [[Small Wheat Field]]
+* [[Tree]]
+* [[Small Peasants' Hut]]
+* [[Bone Pit]]
+* [[Fairy Fountain]]
+* [[Research Table]]
+* [[Fisherman's Hut]]
+* [[Fuel Pump]]

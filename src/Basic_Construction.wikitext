@@ -1,0 +1,21 @@
+{{Infobox building
+| name = Basic Construction
+| image = [[File:Basic_construction.png]]
+| category = Other
+| cycle = 30s
+| capacity = N/A
+| build_cost = 10 [[Gold]]
+| description = Once this construction has been active for some time, it can be upgraded into a resource building of your choice.
+}}
+
+The '''Basic Construction''' is a building in the [[Other]] category. It can be upgraded into one of the following buildings:
+* [[Wheat Field]]
+* [[Sawmill]]
+* [[Iron Mine]]
+* [[Clay Mine]]
+
+== Transformation Cost ==
+* '''Wheat Field:''' 80 [[Water]]
+* '''Sawmill:''' 80 [[Water]]
+* '''Iron Mine:''' 50 [[Wood]] + 20 [[Wheat]]
+* '''Clay Mine:''' 30 [[Wheat]] + 40 [[Wood]]

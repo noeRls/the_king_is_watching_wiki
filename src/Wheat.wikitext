@@ -1,0 +1,30 @@
+{{Infobox resource
+| name = Wheat
+| image = 
+| description = A basic food resource.
+}}
+
+'''Wheat''' is a basic food resource.
+
+== How to Obtain ==
+* [[Small Wheat Field]]
+* [[Wheat Field (Established)]]
+
+== Used For ==
+* [[Clay Mine]]
+* [[Iron Mine]]
+* [[Grape Bushes]]
+* [[Small Peasants' Hut]]
+* [[Blacksmith's Farm]]
+* [[Swordsmen Barracks]]
+* [[Militia Camp]]
+* [[Hunters]]
+* [[Bone Pit]]
+* [[Archery]]
+* [[Academy of Nature]]
+* [[Academy of Fire]]
+* [[Lion Circus]]
+* [[Academy of Lightning]]
+* [[Dragons' Bakery]]
+* [[Market]]
+* [[Mill]]

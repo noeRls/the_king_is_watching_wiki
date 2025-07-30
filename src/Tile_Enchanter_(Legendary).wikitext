@@ -1,0 +1,11 @@
+{{Infobox building
+| name = Tile Enchanter (Legendary)
+| image = [[File:Tile_enchanter_legendary.png]]
+| category = Kingdom Infrastructure
+| cycle = 15s
+| capacity = N/A
+| build_cost = 70 [[Oil]]
+| description = Enchants a tile with a 50% boost to production. Can be placed over existing buildings to enchant the tile instantly but will cost 50% more.
+}}
+
+The '''Tile Enchanter (Legendary)''' is a building in the [[Kingdom Infrastructure]] category.

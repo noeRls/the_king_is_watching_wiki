@@ -1,0 +1,13 @@
+{{Infobox resource
+| name = Meat
+| image = 
+| description = A food resource for elite units.
+}}
+
+'''Meat''' is a food resource.
+
+== How to Obtain ==
+* [[Fisherman's Hut]]
+
+== Used For ==
+* [[Lion Circus]]
