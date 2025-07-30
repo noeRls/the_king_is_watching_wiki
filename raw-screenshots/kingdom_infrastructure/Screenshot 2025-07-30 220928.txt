@@ -1,0 +1,23 @@
+Magic School
+============
+
+Cycle: 110s
+
+Population Requirements: 30 (red cross icon)
+
+Function/Description:
+Slowly generates basic spells.
+
+Build Costs:
+- Wood: 50
+- Stone: 40
+
+Special Abilities/Bonuses/Effects:
+- Magic School speed: Boosts spell production by 25%
+- Illusion of choice: No longer generates random spells but grants spell choices instead
+
+Additional Notes:
+- Entry-level magical education building
+- Provides controlled spell generation rather than random spell creation
+- The "Illusion of choice" upgrade is particularly valuable for strategic spell selection
+- Requires a moderate population investment to operate

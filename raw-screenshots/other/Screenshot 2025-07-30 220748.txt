@@ -1,0 +1,15 @@
+WELL
+
+Building Information:
+- Cycle: 0.80s
+- Capacity: Not specified
+
+Requirements:
+- Increases by 1 (blue water resource)
+
+Function: Produces water
+
+Build Cost:
+Build cost information is cut off in the screenshot, but this appears to be a very basic resource building.
+
+This is a fundamental resource production building that generates water, which is likely a basic resource required for various kingdom operations. The very short Cycle suggests it's an essential early-game building.

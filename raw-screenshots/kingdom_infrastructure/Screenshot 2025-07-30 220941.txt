@@ -1,0 +1,25 @@
+Hospital
+========
+
+Cycle: 1s
+
+Function/Description:
+Heals your injured troops while active.
+
+Build Costs:
+- Stone: 280
+
+Population Requirements:
+Not specified in the screenshot
+
+Special Abilities/Bonuses/Effects:
+- Masters of healing: Heals 50% more
+- Masters of morale: Each active hospital provides 4 morale
+
+Additional Notes:
+- Extremely fast Cycle (1 second)
+- Essential for maintaining troop health during campaigns
+- Provides both healing and morale benefits to your forces
+- The healing bonus makes medical treatment significantly more effective
+- Morale boost applies per active hospital, encouraging multiple constructions
+- High stone cost reflects the importance and effectiveness of medical facilities

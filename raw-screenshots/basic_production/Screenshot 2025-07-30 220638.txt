@@ -1,0 +1,12 @@
+Small Wheat Field
+
+Building Information:
+- Cycle: 0.80s
+- Capacity: 200
+
+Production:
+- Produces: 1 Wheat per cycle
+- Description: Produces wheat. Tile's yield is limited.
+
+Build Cost:
+- 25 Water

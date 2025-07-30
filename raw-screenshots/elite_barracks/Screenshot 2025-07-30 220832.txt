@@ -1,0 +1,33 @@
+BALLISTA FACTORY
+
+Building Information:
+- Cycle: 15s
+- Capacity: 2
+
+Requirements:
+- Produce one unit per cycle
+- Consume 80 metal per cycle
+
+Function: Creates Ballistas that can shoot from afar and slow down the enemy's advance
+
+Build Cost:
+- 300 Wood
+- 200 Metal
+
+BALLISTA UNIT STATS:
+
+Base Characteristics:
+- HP: 130
+- Damage per second: 40
+- Unit Type: [Ranged] (green circular icon)
+
+Unit Trait:
++10% to HP of [Flying] troops for each Ballista on the battlefield, up to 100%.
+
+UPGRADES:
+
+Damage and Slowness:
+- Increases damage dealt by 25% and applies the slow effect to enemies shot
+
+Ballista Capacity:
+- Increases capacity by 1

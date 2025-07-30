@@ -1,0 +1,28 @@
+SMALL PEASANTS' HUT
+
+Building Information:
+- Cycle: 10s
+- Capacity: 2
+
+Requirements:
+- Increases population by 1 (green arrow up)
+- Decreases resources by 8 (resource icon)
+
+Function: Recruits weak peasants to fight for you
+
+Build Cost:
+- 30 (blue water resource)
+- 15 (red circular resource - appears to be food/supplies)
+- 15 (resource icon - appears to be wood/material)
+
+PEASANT UNIT STATS:
+
+Base Characteristics:
+- HP: 35
+- Damage per second: 10
+- Unit Type: [Grunt] (brown circular icon)
+
+Unit Trait:
++1% to all production for each Peasant on the battlefield.
+
+This building produces basic military units that also provide economic benefits through their production bonus trait, making peasants useful for both combat and kingdom development.

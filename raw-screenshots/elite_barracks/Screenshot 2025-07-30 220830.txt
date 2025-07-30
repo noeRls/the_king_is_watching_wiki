@@ -1,0 +1,31 @@
+WHITE UNICORN FIELD
+
+Building Information:
+- Cycle: 17s
+- Capacity: 3
+
+Requirements:
+- Produce one white unicorn per cycle
+- Consume 70 crystal per cycle
+- Description Spawns White Unicorns
+
+Build Cost:
+- 400 crystal
+
+WHITE UNICORN UNIT STATS:
+
+Base Characteristics:
+- HP: 600
+- Damage per second: 38
+- Unit Types: [Champion] (golden crown icon), [Arcane] (blue circular icon)
+
+Unit Trait:
++30% to damage dealt if Black Unicorn is present.
+
+UPGRADES:
+
+Spell Damage:
+- Each Unicorn increases spell damage dealt by 10%
+
+Unicorns' HP:
+- Increases Unicorns' HP by 100%

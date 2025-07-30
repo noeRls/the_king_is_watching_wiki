@@ -1,0 +1,22 @@
+LEVY BARRACKS OVERVIEW
+
+This shows the complete layout of the Levy Barracks building complex, displaying the various military training facilities available at the basic tier:
+
+Buildings Available:
+1. Swordsmen Barracks (top left)
+2. Unknown building slot (top center-left)
+3. Bone Pit (top center-right) 
+4. Archery (top right)
+5. Unknown building slots (middle row - 4 slots)
+6. Hunters (bottom left)
+7. Militia Camp (bottom center)
+8. Unknown building slots (bottom right area)
+
+The Levy Barracks appears to be the foundational military complex that provides access to basic military units including:
+- Swordsmen (melee warriors)
+- Small Bones/Skeletons (undead troops)
+- Crossbowmen (ranged units)
+- Hunters (specialized ranged with debuffs)
+- Militia (versatile warrior units)
+
+This represents the entry-level military production facility in "The King Is Watching" game.

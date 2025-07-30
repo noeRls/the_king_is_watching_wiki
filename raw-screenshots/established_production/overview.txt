@@ -1,0 +1,24 @@
+Established Production Overview
+
+Building Category: Established Production
+
+Available Buildings (7 total):
+Top Row (left to right):
+1. Clay Mine - Enhanced clay extraction with zero waste and castle repair benefits
+2. Gold Mine - Premium gold mining with rich veins bonus
+3. Wheat Field - Advanced farming with gold digging opportunities
+4. Vineyard - Grape production with morale benefits
+
+Bottom Row (left to right):
+5. Crystal Mine - Magical crystal production with spell damage aura
+6. Sawmill - Wood production with neighboring tile production bonuses
+7. Iron Mine - Ore extraction with warrior troop inspiration
+
+Key Characteristics:
+- All buildings have 1000 Capacity (vs 200 for basic production)
+- Cycles range from 0.80s to 1.50s (vs 0.80s for all basic)
+- No "limited yield" - all produce indefinitely unlike basic versions
+- All have production boosts (25-35% increase over base production)
+- Each building provides unique special effects beyond resource production
+- Much higher construction costs requiring multiple resource types
+- Represents mid-tier economic infrastructure with strategic bonuses

@@ -1,0 +1,24 @@
+Magic College
+=============
+
+Cycle: 55s
+
+Population Requirements: 45 (red cross icon)
+
+Function/Description:
+Generates basic spells.
+
+Build Costs:
+- Crystals: 250
+- Wood: 250
+
+Special Abilities/Bonuses/Effects:
+- Magic College speed: Boosts spell production by 20%
+- Illusion of choice: No longer generates random spells but grants spell choices instead
+
+Additional Notes:
+- Advanced version of the Magic School with higher capacity
+- Requires significantly more population (45 vs 30) than Magic School
+- Higher resource investment but better spell generation capabilities
+- The "Illusion of choice" upgrade provides strategic control over spell acquisition
+- More expensive but more efficient than the basic Magic School

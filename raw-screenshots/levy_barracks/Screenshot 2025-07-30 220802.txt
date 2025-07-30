@@ -1,0 +1,34 @@
+SWORDSMEN BARRACKS
+
+Building Information:
+- Cycle: 10s
+- Capacity: 4
+
+Requirements:
+- Increases population by 1 (green arrow up)
+- Decreases resources by 10 (red arrow down with resource icon) and 8 (blue gem icon)
+
+Function: Recruits swordsmen
+
+Build Cost:
+- 15 (resource icon - appears to be wood/material)
+- 100 (red circular resource - appears to be food/supplies)  
+- 50 (blue gem resource)
+
+SWORDSMAN UNIT STATS:
+
+Base Characteristics:
+- HP: 80
+- Damage per second: 13
+- Unit Type: [Warrior] (indicated by red circular icon)
+
+Unit Trait:
++2% to damage dealt by Swordsmen for each Swordsman on the battlefield.
+
+ABILITIES:
+
+Damage dealt by Swordsmen:
+- Increases damage dealt by swordsmen by 100%
+
+Swordsmen's capacity:
+- Increases capacity by 2

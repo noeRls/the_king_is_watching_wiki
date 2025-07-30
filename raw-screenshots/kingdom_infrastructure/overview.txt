@@ -1,0 +1,34 @@
+Kingdom Infrastructure Overview
+===============================
+
+This overview shows the complete Kingdom Infrastructure building menu, displaying all available infrastructure buildings that can be constructed to enhance kingdom management, military capabilities, and resource production.
+
+Visible Buildings Include:
+- Research Table (bottom left corner)
+- Tile Enchanter (bottom row, second from left) 
+- Dragons' Bakery (middle-left area)
+- Magic School (middle row)
+- Hospital (middle-right area)
+- King's Statue (top right)
+- Monument to the King's Gaze (Tile Enchanter visible in menu)
+- Magic College
+- Execution Ground
+- Various other infrastructure buildings arranged in a grid layout
+
+Menu Organization:
+- Buildings are organized in a 4x4 grid format
+- Some slots show question marks, indicating locked or undiscovered buildings
+- The interface allows players to browse and select different infrastructure options
+- Each building has a distinct visual icon representing its function
+
+Categories Represented:
+- Military support buildings (Hospital, Execution Ground)
+- Economic infrastructure (Research Table, Tile Enchanter)
+- Magical facilities (Magic School, Magic College, Dragons' Bakery)
+- Administrative structures (King's Statue, Monument to the King's Gaze)
+- Resource production and enhancement buildings
+
+Additional Notes:
+- This represents the full infrastructure tech tree available to players
+- Building placement and strategic selection from this menu is crucial for kingdom development
+- The variety shows the depth of kingdom management options available

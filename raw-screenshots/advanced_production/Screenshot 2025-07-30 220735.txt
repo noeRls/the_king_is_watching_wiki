@@ -1,0 +1,15 @@
+Market (Advanced Production)
+
+Building Information:
+- Cycle: 1s
+
+Production:
+- Description: Sells selected resources while active.
+
+Build Cost:
+- 40 Wood
+- 30 Wheat
+
+Upgrades:
+- Faster trading: Boosts production by 25%
+- Charismatic traders: Each active market provides 5 morale

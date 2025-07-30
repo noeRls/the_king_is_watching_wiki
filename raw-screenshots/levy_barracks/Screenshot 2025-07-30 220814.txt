@@ -1,0 +1,37 @@
+MILITIA CAMP
+
+Building Information:
+- Cycle: 15s
+- Capacity: 3
+
+Requirements:
+- Increases population by 1 (green arrow up)
+- Decreases resources by 12 (resource icon) and 15 (red circular resource)
+
+Function: Recruits militia
+
+Build Cost:
+- 120 (red circular resource - appears to be food/supplies)
+- 30 (resource icon - appears to be wood/material)
+- 30 (bow/arrow resource)
+
+MILITIA UNIT STATS:
+
+Base Characteristics:
+- HP: 140
+- Damage per second: 7
+- Unit Type: [Warrior] (red circular icon)
+
+Unit Trait:
++2% to HP of Militias for each Militia on the battlefield.
+
+ABILITIES:
+
+Militia HP:
+- Increases militia HP by 50%
+
+Militia Capacity:
+- Increases capacity by 2
+
+Mega Dude:
+- Produces a MEGA militia after recruiting 4 base troops

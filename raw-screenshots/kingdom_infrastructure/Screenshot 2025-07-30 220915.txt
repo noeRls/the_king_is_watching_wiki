@@ -1,0 +1,24 @@
+BRICK FACTORY
+
+Building Information:
+- Cycle: 4s
+- Capacity: Not specified
+
+Requirements:
+- Decreases resources by 3 (tool/iron resource)
+
+Function: Repairs the castle walls
+
+Build Cost:
+- 70 (red circular resource - appears to be food/supplies)
+- 70 (tool/iron resource)
+
+ABILITIES:
+
+Repair Speed:
+- Boosts production by 100%
+
+Fortifications:
+- When the HP of the castle is full, the building will accumulate charges. Once 20 charges are gathered, the charges are spent and the max HP of the castle is increased by 1. A maximum of 100 HP can be earned this way.
+
+This defensive infrastructure building is crucial for maintaining and upgrading castle defenses, providing both repair capabilities and permanent fortification improvements.

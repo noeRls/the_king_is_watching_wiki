@@ -1,0 +1,23 @@
+Execution Ground
+===============
+
+Cycle: 15s
+
+Population Requirements: 1 (red cross icon, indicating population increase)
+
+Function/Description:
+Executes one of your [Grunt] units and provides Denarii for each unit.
+
+Build Costs:
+- Stone: 120
+
+Special Abilities/Bonuses/Effects:
+- High bounties: Gain 2 extra per unit executed
+- Troop inspiration: Passively increases damage dealt by and HP of [Grunt] troops by 5%
+
+Additional Notes:
+- Provides economic benefit through unit sacrifice
+- The troop inspiration bonus affects all Grunt units, not just those being executed
+- Quick Cycle for immediate strategic benefit
+- Creates a trade-off between unit count and economic/military bonuses
+- The population requirement likely represents the executioner or overseer needed

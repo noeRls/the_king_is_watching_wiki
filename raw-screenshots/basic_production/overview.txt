@@ -1,0 +1,16 @@
+Basic Production Overview
+
+Building Category: Basic Production
+
+Available Buildings (8 total):
+Top Row (left to right):
+1. Crystal Mine - Mines crystals from rocky terrain
+2. Iron Mine - Mines iron ore from mountainous areas  
+3. Clay Mine - Extracts clay from desert/arid regions
+4. Small Wheat Field - Agricultural wheat production
+
+Bottom Row (left to right):
+5. Gold Mine - Extracts gold from rocky/mountainous terrain
+6. Big Well - Enhanced water production facility
+7. Tree - Cultivated wood production
+8. Grape Bushes - Agricultural grape cultivation

@@ -1,0 +1,21 @@
+ELITE BARRACKS OVERVIEW
+
+This shows the complete layout of the Elite Barracks building complex, representing the highest tier of military facilities with premium units and advanced war machines:
+
+Buildings Available:
+Row 1: Unknown slot (top left), Green/Nature building (top center-left), Unknown slots (top center-right and top right)
+Row 2: Ballista Factory (middle left), Lion Circus (middle center-left), Dragon Hatchery (middle center-right), Crystal Castle (middle right)
+Row 3: Academy of Lightning (bottom left), Unknown slot (bottom center-left), Black Unicorn Field (bottom center-right), Catapult Factory (bottom right)
+Row 4: Unknown slot (bottom left)
+
+The Elite Barracks offers the most powerful and specialized units:
+- White Unicorns (magical champion creatures)
+- Black Unicorns (dark magical champions with morale boost)
+- Ballistas (long-range siege weapons with slowing effects)
+- Griffins (versatile flying riders that benefit from all troop classes)
+- Flour Dragons (flying champions that boost all unit performance)
+- Patricius (crystal creatures that generate mana)
+- Lightning Mages (advanced arcane ranged units with chain lightning)
+- Catapults (area-of-effect siege weapons with stun chance)
+
+This represents the ultimate military production facility in "The King Is Watching" game, offering access to champion-tier units, powerful siege weapons, and game-changing magical creatures.

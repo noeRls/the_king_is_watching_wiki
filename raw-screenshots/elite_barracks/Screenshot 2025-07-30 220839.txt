@@ -1,0 +1,35 @@
+CRYSTAL CASTLE
+
+Building Information:
+- Cycle: 25s
+- Capacity: 1
+
+Requirements:
+- Produce one unit per cycle
+- Consume 100 crystal per cycle
+- Description: Produces a strong unit that only functions while this building is active
+
+Build Cost:
+- 400 crystal
+- 150 clay
+
+PATRICIUS UNIT STATS:
+
+Base Characteristics:
+- HP: 700
+- Damage per second: 38
+- Unit Types: [Arcane] (blue circular icon), [Champion] (golden crown icon)
+
+Unit Trait:
+Provides 3 mana with each attack.
+
+UPGRADES:
+
+Crystal Creatures' HP:
+- Increases Crystal Creatures' HP by 200%
+
+Damage dealt by Crystal Creatures:
+- Increases damage dealt by Crystal Creatures by 100%
+
+Independence:
+- The units no longer sleep when you aren't looking

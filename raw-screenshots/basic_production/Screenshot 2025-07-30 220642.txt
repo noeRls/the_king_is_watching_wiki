@@ -1,0 +1,13 @@
+Iron Mine
+
+Building Information:
+- Cycle: 0.80s
+- Capacity: 200
+
+Production:
+- Produces: 1 Iron Ore per cycle
+- Description: Mines ore. Yield is limited.
+
+Build Cost:
+- 15 Wood
+- 8 Wheat

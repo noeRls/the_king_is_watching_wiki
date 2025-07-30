@@ -1,0 +1,12 @@
+Gold Mine
+
+Building Information:
+- Cycle: 0.80s
+- Capacity: 200
+
+Production:
+- Produces: 1 Gold per cycle
+- Description: Mines gold. Yield is limited.
+
+Build Cost:
+- 75 Gold

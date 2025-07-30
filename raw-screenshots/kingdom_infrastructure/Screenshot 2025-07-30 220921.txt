@@ -1,0 +1,13 @@
+TILE ENCHANTER (EPIC)
+
+Building Information:
+- Cycle: 15s
+- Capacity: Not specified
+
+Function: Enchants a tile with a 35% boost to production. Can be placed over existing buildings to enchant the tile instantly but will cost 50% more.
+
+Build Cost:
+- 100 (blue gem resource)
+- 100 (bow/arrow resource)
+
+This is an epic tier enchantment building that provides substantial production bonuses to tiles, offering a significant upgrade over basic tile enhancement options.

@@ -1,0 +1,12 @@
+Big Well
+
+Building Information:
+- Cycle: 0.80s
+- Capacity: 200
+
+Production:
+- Produces: 2 Water per cycle
+- Description: Produces more water.
+
+Build Cost:
+- 20 Wood

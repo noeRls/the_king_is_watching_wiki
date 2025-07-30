@@ -1,0 +1,18 @@
+Fuel Pump (Advanced Production)
+
+Building Information:
+- Cycle: 2s
+
+Production:
+- Produces: 1 Fuel per cycle
+- Also consumes: 1 Water and 1 Wood per cycle (red minus symbols)
+- Description: Produces Fuel.
+
+Build Cost:
+- 100 Wood
+- 100 Ore
+- 50 Metal
+
+Upgrades:
+- Production speed: Boosts production by 30%
+- Gifts of the earth: Receive a 20% chance of producing a random extra resource

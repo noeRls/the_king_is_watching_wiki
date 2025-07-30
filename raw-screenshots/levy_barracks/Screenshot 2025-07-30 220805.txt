@@ -1,0 +1,33 @@
+BONE PIT
+
+Building Information:
+- Cycle: 12s
+- Capacity: 3
+
+Requirements:
+- Increases population by 1 (green arrow up)
+- Decreases mana by 13 (red arrow down with blue mana icon)
+
+Function: Spawns small skeletons
+
+Build Cost:
+- 40 (red circular resource - appears to be food/supplies)
+- 40 (resource icon - appears to be wood/material)
+
+SMALL BONES UNIT STATS:
+
+Base Characteristics:
+- HP: 45
+- Damage per second: 10
+- Unit Types: [Undead] (purple icon), [Grunt] (brown icon)
+
+Unit Trait:
++2% to damage dealt by and HP of [Undead] troops for each Small Bones on the battlefield.
+
+ABILITIES:
+
+Troop Inspiration:
+- Passively increases damage dealt by and HP of [Undead] troops by 5%
+
+Bone Meal:
+- Grants a 90% chance of receiving 5 flour upon Skeleton's death

@@ -1,0 +1,36 @@
+DRAGON HATCHERY
+
+Building Information:
+- Cycle: 25s
+- Capacity: 2
+
+Requirements:
+- One unit per cycle
+- Consume 40 floor per cycle
+- description: Produces Flour Dragons
+
+Build Cost:
+- 50 gold
+- 120 wood
+- 160 floor
+
+FLOUR DRAGON UNIT STATS:
+
+Base Characteristics:
+- HP: 450
+- Damage per second: 33
+- Unit Types: [Flying] (blue wings icon), [Champion] (golden crown icon)
+
+Unit Trait:
++1% to damage dealt by and attack speed of all units for each Flour Dragon on the battlefield.
+
+UPGRADES:
+
+Production Speed:
+- Boosts production by 70%
+
+HP and Attack Speed:
+- Increases Flour Dragons' HP and attack speed by 30%
+
+Dragons' Capacity:
+- Increases capacity by 2

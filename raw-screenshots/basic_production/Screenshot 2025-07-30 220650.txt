@@ -1,0 +1,13 @@
+Grape Bushes
+
+Building Information:
+- Cycle: 0.80s
+- Capacity: 200
+
+Production:
+- Produces: 1 Grapes per cycle
+- Description: Produces grapes. Yield is limited.
+
+Build Cost:
+- 15 Gold
+- 10 Wheat

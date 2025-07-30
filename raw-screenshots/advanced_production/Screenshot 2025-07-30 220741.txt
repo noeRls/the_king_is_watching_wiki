@@ -1,0 +1,17 @@
+Forge (Advanced Production)
+
+Building Information:
+- Cycle: 1.50s
+
+Production:
+- Produces: 1 Metal per cycle
+- Consumes: 1 Iron Ore per cycle (red minus symbol)
+- Description: Smelts ore into metal.
+
+Build Cost:
+- 55 Gold
+- 30 Ore
+
+Upgrades:
+- Efficient processing: Increases efficiency and speed. Now consumes 3 Iron Ore to produce 2 Metal
+- Troop inspiration: Passively increases damage dealt by and HP of [Ranged] troops by 5%

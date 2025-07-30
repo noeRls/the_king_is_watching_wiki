@@ -1,0 +1,30 @@
+LION CIRCUS
+
+Building Information:
+- Cycle: 10s
+- Capacity: 4
+
+Requirements:
+- 1 unit per cycle
+- Consume 20 meat and 20 wheat per cycle
+
+Function: Spawns Griffins
+
+Build Cost:
+- 100 meat
+- 20 wheat
+
+GRIFFIN UNIT STATS:
+
+Base Characteristics:
+- HP: 430
+- Damage per second: 40
+- Unit Types: [Rider] (orange circular icon), [Flying] (blue wings icon)
+
+Unit Trait:
++2% to HP of Griffins for each Griffin on the battlefield.
+
+UPGRADES:
+
+Versatility:
+- Griffins receive bonuses from all troop classes and are counted as all-class. Their cost to produce is increased by 100%

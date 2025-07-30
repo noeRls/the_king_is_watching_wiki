@@ -1,0 +1,37 @@
+ACADEMY OF FIRE
+
+Building Information:
+- Cycle: 15s
+- Capacity: 3
+
+Requirements:
+- Increases population by 1 (green arrow up)
+- Decreases resources by 50 (resource icon)
+
+Function: Recruits Fire Mages
+
+Build Cost:
+- 130 (red circular resource - appears to be food/supplies)
+- 55 (tools/iron resource)
+- 100 (bow/arrow resource)
+
+FIRE MAGE UNIT STATS:
+
+Base Characteristics:
+- HP: 70
+- Damage per second: 29
+- Unit Types: [Arcane] (blue circular icon), [Ranged] (green circular icon)
+
+Unit Trait:
++5% to damage dealt by [Arcane] troops for each Fire Mage on the battlefield, up to 50%.
+
+ABILITIES:
+
+Combustion:
+- Fireballs set enemies on fire, dealing bonus 6 damage over time
+
+Damage dealt by Mages:
+- Increases damage dealt by Fire Mages by 50%
+
+Fire Mages' Capacity:
+- Increases capacity by 2

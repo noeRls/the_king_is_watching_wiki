@@ -1,0 +1,21 @@
+FAIRY FOUNTAIN
+
+Building Information:
+- Cycle: 10s
+- Capacity: Not specified
+
+Function: Does not need to be watched to work. Can produce any resource at random.
+
+Build Cost:
+- 400 (blue gem resource)
+- 90 (bow/arrow resource)
+
+ABILITIES:
+
+Production Speed:
+- Boosts production by 25%
+
+Anti-goblin Dust:
+- Starts damaging enemies with each production cycle for 15 damage
+
+This is an autonomous resource-generating building that works independently and provides both economic benefits and defensive capabilities against enemies.

@@ -1,0 +1,17 @@
+WHEEL OF FORTUNE
+
+Building Information:
+- Cycle: 110s
+- Capacity: Not specified
+
+Function: Creates a small resource pack
+
+Build Cost:
+- 100 (bow/arrow resource)
+
+ABILITIES:
+
+Production Speed:
+- Boosts production by 25%
+
+This is a basic infrastructure building that provides random resource generation and enhances overall production efficiency in the kingdom.

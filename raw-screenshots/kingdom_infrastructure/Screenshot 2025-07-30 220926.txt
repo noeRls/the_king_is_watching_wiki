@@ -1,0 +1,24 @@
+Dragons' Bakery
+===============
+
+Cycle: 59s
+
+Function/Description:
+Bakes Flour Dragons into Ash Dragons.
+
+Build Costs:
+- Wood: 10
+- Coal: 50
+
+Population Requirements:
+Not specified in the screenshot
+
+Special Abilities/Bonuses/Effects:
+- Production speed: Boosts production by 30%
+- Magic scales: Receive 100 crystals after baking a Dragon
+
+Additional Notes:
+- Specialized building for dragon transformation/enhancement
+- Converts Flour Dragons (white dragons) into Ash Dragons (black dragons)
+- Provides significant crystal income through the magic scales bonus
+- The production speed boost applies to the baking process

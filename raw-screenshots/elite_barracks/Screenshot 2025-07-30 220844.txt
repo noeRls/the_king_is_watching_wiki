@@ -1,0 +1,32 @@
+BLACK UNICORN FIELD
+
+Building Information:
+- Cycle: 10s
+- Capacity: 3
+
+Requirements:
+- One unit per cycle
+- Consume 30 wine and 30 oil per cycle
+- Description: Spawns Black Unicorns
+
+Build Cost:
+- 150 wine
+- 80 oil
+
+BLACK UNICORN UNIT STATS:
+
+Base Characteristics:
+- HP: 600
+- Damage per second: 33
+- Unit Types: [Champion] (golden crown icon), [Arcane] (blue circular icon)
+
+Unit Trait:
++30% to damage dealt if White Unicorn is present.
+
+UPGRADES:
+
+Damage dealt by Black Unicorns:
+- Increases damage dealt by Black Unicorns by 100%
+
+Boosters of Morale:
+- Each Black Unicorn increases morale by 5

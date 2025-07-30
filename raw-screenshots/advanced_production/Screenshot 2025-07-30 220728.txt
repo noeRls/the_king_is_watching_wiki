@@ -1,0 +1,17 @@
+Fisherman's Hut (Advanced Production)
+
+Building Information:
+- Cycle: 3s
+
+Production:
+- Produces: 1 Meat per cycle
+- Consumes: 5 Water per cycle (red minus symbol)
+- Description: Produces Meat.
+
+Build Cost:
+- 550 Water
+- 150 Wood
+
+Upgrades:
+- Production speed: Boosts production by 30%
+- Quality lure: 50% chance of receiving extra 2 Meat with each production cycle

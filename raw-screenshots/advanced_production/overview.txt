@@ -1,0 +1,19 @@
+Advanced Production Overview
+
+Building Category: Advanced Production
+
+Available Buildings (5 visible, with unknown slots):
+Top Row (left to right):
+1. Fuel Pump - Industrial fuel production consuming water and food
+2. [Unknown building - question mark]
+3. Fisherman's Hut - Advanced meat production consuming water
+4. Market - Trading facility providing morale
+
+Middle Row (left to right):
+5. Mill - Wheat-to-flour processing with flying troop bonuses
+6. [Unknown building - question mark]
+7. [Unknown building - question mark]
+8. Forge - Ore-to-metal smelting with ranged troop bonuses
+
+Bottom Row (left to right):
+9. [Unknown building - question mark]

@@ -1,0 +1,13 @@
+Clay Mine
+
+Building Information:
+- Cycle: 0.80s
+- Capacity: 200
+
+Production:
+- Produces: 1 Clay per cycle
+- Description: Mines clay. Yield is limited.
+
+Build Cost:
+- 10 Wheat
+- 12 Wood

@@ -1,0 +1,12 @@
+Tree
+
+Building Information:
+- Cycle: 0.80s
+- Capacity: 200
+
+Production:
+- Produces: 1 Wood per cycle
+- Description: Produces wood. Tile's yield is limited.
+
+Build Cost:
+- 25 Water

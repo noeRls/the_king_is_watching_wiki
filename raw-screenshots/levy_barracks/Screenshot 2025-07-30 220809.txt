@@ -1,0 +1,37 @@
+ARCHERY
+
+Building Information:
+- Cycle: 15s
+- Capacity: 3
+
+Requirements:
+- Increases population by 1 (green arrow up)
+- Decreases resources by 10 (resource icon) and 8 (another resource icon)
+
+Function: Recruits crossbowmen
+
+Build Cost:
+- 30 (blue gem resource)
+- 100 (red circular resource - appears to be food/supplies)
+- 30 (bow/arrow resource)
+
+CROSSBOWMAN UNIT STATS:
+
+Base Characteristics:
+- HP: 50
+- Damage per second: 13
+- Unit Type: [Ranged] (green circular icon)
+
+Unit Trait:
++4% to HP of [Warrior] troops for each Crossbowman on the battlefield.
+
+ABILITIES:
+
+Precise Shots:
+- Archers deal double damage once every 5 attacks
+
+Archers' Capacity:
+- Increases capacity by 2
+
+Stunning Arrows:
+- Archers stun enemies at full HP for 2s

@@ -1,0 +1,36 @@
+ACADEMY OF LIGHTNING
+
+Building Information:
+- Cycle: 25s
+- Capacity: 3
+
+Requirements:
+- Produce one unit per cycle
+- Consume 100 wheat
+
+Function: Recruits Lightning Mages
+
+Build Cost:
+- 100 metal
+- 200 wood
+
+LIGHTNING MAGE UNIT STATS:
+
+Base Characteristics:
+- HP: 100
+- Damage per second: 27
+- Unit Types: [Arcane] (blue circular icon), [Ranged] (green circular icon)
+
+Unit Trait:
++5% to spell damage dealt by each Lightning Mage on the battlefield.
+
+UPGRADES:
+
+Lightning Mages' Capacity:
+- Increases capacity by 2
+
+HP and Damage:
+- Increases damage dealt by and HP of Lightning Mages by 50%
+
+Jumping Lightning:
+- Extra lightning jumps (2)

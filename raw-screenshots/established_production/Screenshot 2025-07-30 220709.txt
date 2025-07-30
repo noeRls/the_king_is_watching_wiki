@@ -1,0 +1,28 @@
+Crystal Mine (Established Production)
+
+Building Information:
+- Cycle: 1s
+- Capacity: 1000
+
+Production:
+- Produces: 1 Crystal per cycle
+- Description: Produces crystals.
+
+Build Cost:
+- 55 Wood
+- 25 Stone
+- 25 Food
+
+Special Effects:
+- Magic aura: Passively increases spell damage dealt by 5%
+- Crystal Mine production: Boosts production by 30%
+
+Additional Notes:
+- This is an upgraded version of the basic Crystal Mine
+- Higher construction cost and longer build time than basic version
+- Higher Capacity (1000 vs 200)
+- No longer has "limited yield" - produces indefinitely
+- Provides passive magical enhancement to spell damage
+- The magic aura effect makes this valuable for magical warfare and spellcasting units
+- Part of the Established Production building category
+- Combines resource production with magical combat benefits

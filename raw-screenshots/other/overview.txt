@@ -1,0 +1,18 @@
+OTHER BUILDINGS OVERVIEW
+
+This shows the complete layout of the "Other" buildings category, which contains miscellaneous structures that don't fit into the main military categories:
+
+Buildings Available:
+Row 1: 4 unknown building slots (question marks)
+Row 2: Blacksmith's Farm (middle left), Well (middle center-left), 2 unknown slots (middle right area)
+Row 3: 4 unknown building slots (question marks)
+Row 4: 4 unknown building slots (question marks)
+Row 5: Small Peasants' Hut (bottom left), unknown slot (bottom center-left), Basic Construction (bottom right)
+
+The "Other" category includes:
+- Blacksmith's Farm (multi-resource production facility requiring massive population)
+- Well (basic water production)
+- Small Peasants' Hut (produces peasant units with production bonuses)
+- Basic Construction (flexible foundation that can be upgraded to various resource buildings)
+
+This category appears to contain utility buildings, basic resource structures, and flexible construction options that support the kingdom's foundational needs and economic development. These buildings complement the military structures by providing essential resources and civilian units.

@@ -1,0 +1,19 @@
+Mill (Advanced Production)
+
+Building Information:
+- Cycle: 1.50s
+- No Capacity listed
+
+Production:
+- Produces: 1 Flour per cycle
+- Consumes: 1 Wheat per cycle (red minus symbol)
+- Description: Makes flour out of wheat.
+
+Build Cost:
+- 40 Wood
+- 70 Gold
+- 25 Wheat
+
+Upgrades:
+- Efficient processing: Increases efficiency and speed. Now consumes 3 Wheat to produce 2 Flour
+- Troop inspiration: Passively increases damage dealt by and HP of [Flying] troops by 5%

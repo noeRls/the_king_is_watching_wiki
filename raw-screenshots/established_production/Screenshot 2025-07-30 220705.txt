@@ -1,0 +1,27 @@
+Vineyard (Established Production)
+
+Building Information:
+- Cycle: 1s
+- Capacity: 1000
+
+Production:
+- Produces: 1 Grapes per cycle
+- Description: Produces grapes.
+
+Build Cost:
+- 50 Wood
+- 30 Water
+
+Special Effects:
+- Vineyard production: Boosts production by 30%
+- Grape varieties: Each active vineyard provides 5 morale
+
+Additional Notes:
+- This is an upgraded version of the basic Grape Bushes
+- Higher construction cost and longer build time than basic version
+- Higher Capacity (1000 vs 200)
+- No longer has "limited yield" - produces indefinitely
+- Provides significant morale bonus (5 per vineyard) to your kingdom
+- The morale benefit makes this valuable beyond just resource production
+- Part of the Established Production building category
+- Combines agricultural production with population happiness benefits

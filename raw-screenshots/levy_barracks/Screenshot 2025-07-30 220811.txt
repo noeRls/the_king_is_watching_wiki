@@ -1,0 +1,33 @@
+HUNTERS
+
+Building Information:
+- Cycle: 15s
+- Capacity: 2
+
+Requirements:
+- Increases population by 1 (green arrow up)
+- Decreases resources by 15 (resource icon) and 5 (red circular resource)
+
+Function: Produces hunters that slow down enemies with their ranged attacks
+
+Build Cost:
+- 100 (red circular resource - appears to be food/supplies)
+- 50 (resource icon - appears to be wood/material)
+
+HUNTER UNIT STATS:
+
+Base Characteristics:
+- HP: 99
+- Damage per second: 3
+- Unit Types: [Warrior] (red circular icon), [Ranged] (green circular icon)
+
+Unit Trait:
++10% to attack speed of [Flying] troops for each Hunter on the battlefield, up to 100%.
+
+ABILITIES:
+
+Stinky Nets:
+- Hunters poison their enemies, dealing bonus 10 damage over time
+
+Hunters' Capacity:
+- Increases capacity by 2

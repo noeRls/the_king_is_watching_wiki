@@ -1,0 +1,14 @@
+Crystal Mine
+
+Building Information:
+- Cycle: 0.80s
+- Capacity: 200
+
+Production:
+- Produces: 1 Crystal per cycle
+- Description: Mines crystals. Yield is limited.
+
+Build Cost:
+- 15 Gold
+- 10 Ore
+- 10 Wood

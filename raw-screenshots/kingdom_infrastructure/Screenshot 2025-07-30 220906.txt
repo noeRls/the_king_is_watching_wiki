@@ -1,0 +1,12 @@
+TILE ENCHANTER (LEGENDARY)
+
+Building Information:
+- Cycle: 15s
+- Capacity: Not specified
+
+Function: Enchants a tile with a 50% boost to production. Can be placed over existing buildings to enchant the tile instantly but will cost 50% more.
+
+Build Cost:
+- 70 (dark resource icon)
+
+This is a legendary tier enchantment building that provides significant production bonuses to tiles and can enhance existing structures for improved efficiency.

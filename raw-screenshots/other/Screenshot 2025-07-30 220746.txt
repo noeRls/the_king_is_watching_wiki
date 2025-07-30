@@ -1,0 +1,17 @@
+BLACKSMITH'S FARM
+
+Building Information:
+- Cycle: 2s
+- Capacity: 500
+
+Requirements:
+- Increases by 1 (tool/iron resource)
+- Increases by 1 (resource icon)
+
+Function: Produces multiple resources at the same time but slower
+
+Build Cost:
+- 40 (red circular resource - appears to be food/supplies)
+- 40 (resource icon - appears to be wood/material)
+
+This is a hybrid production building that can generate multiple resource types simultaneously, though at reduced speed compared to specialized buildings. The extremely high population requirement (500) suggests this is an advanced late-game structure.

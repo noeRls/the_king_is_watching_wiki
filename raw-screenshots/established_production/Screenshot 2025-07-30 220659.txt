@@ -1,0 +1,28 @@
+Gold Mine (Established Production)
+
+Building Information:
+- Cycle: 1.50s
+- Capacity: 1000
+
+Production:
+- Produces: 1 Gold per cycle
+- Description: Produces gold.
+
+Build Cost:
+- 80 Wood
+- 80 Stone
+- 50 Food
+
+Special Effects:
+- Gold Mine production: Boosts production by 25%
+- Rich veins: 50% chance of receiving extra 2 Gold with each production cycle
+
+Additional Notes:
+- This is an upgraded version of the basic Gold Mine
+- Significantly higher construction cost and longer build time than basic version
+- Higher Capacity (1000 vs 200) 
+- No longer has "limited yield" - produces indefinitely
+- Has potential to produce 3 gold per cycle (1 base + 2 bonus) with 50% chance
+- The 25% production boost and rich veins bonus make this highly efficient
+- Part of the Established Production building category
+- Most expensive construction cost requiring wood, stone, and food

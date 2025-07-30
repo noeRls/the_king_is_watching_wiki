@@ -1,0 +1,32 @@
+CATAPULT FACTORY
+
+Building Information:
+- Cycle: 15s
+- Capacity: 1
+
+Requirements:
+- Create one unit per cycle
+- Consume 90 metal per cycle
+- Description: Creates Catapults that can shoot from afar and deal damage in an area of effect
+
+Build Cost:
+- 320 Wood
+- 180 Metal
+
+CATAPULT UNIT STATS:
+
+Base Characteristics:
+- HP: 150
+- Damage per second: 33
+- Unit Type: [Ranged] (green circular icon)
+
+Unit Trait:
++10% to HP of [Grunt] troops for each Catapult on the battlefield, up to 100%.
+
+UPGRADES:
+
+Catapult Capacity:
+- Increases capacity by 1
+
+Stun Chance:
+- Catapults have a 20% chance of stunning enemies

@@ -1,0 +1,24 @@
+Tile Enchanter
+==============
+
+Cycle: 15s
+
+Function/Description:
+Enchants a tile with a 20% boost to production. Can be placed over existing buildings to enchant the tile instantly but will cost 50% more.
+
+Build Costs:
+- Wood: 100
+
+Population Requirements:
+Not specified in the screenshot
+
+Special Abilities/Bonuses/Effects:
+- Provides 20% production boost to the tile it's placed on
+- Can enhance existing buildings by placement over them
+- Instant enchantment capability for existing structures
+
+Additional Notes:
+- Quick Cycle makes it efficient for immediate improvements
+- Cost penalty (50% more) when placed over existing buildings
+- Versatile enhancement tool for optimizing tile productivity
+- Essential for maximizing resource generation from key locations
