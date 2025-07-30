@@ -11,16 +11,6 @@ Production:
 Build Cost:
 - 80 Water
 
-Special Effects:
+Upgrades:
 - Farm production: Boosts production by 30%
 - Gold diggers: 25% chance of receiving extra 1 Gold with each production cycle
-
-Additional Notes:
-- This is an upgraded version of the basic Small Wheat Field
-- Same Cycle as basic version but much higher Capacity (1000 vs 200)
-- Much higher water cost (80 vs 25) for construction
-- No longer has "limited yield" - produces indefinitely
-- Provides bonus gold income with 25% chance per cycle
-- The "Gold diggers" effect suggests workers sometimes find gold while farming
-- Part of the Established Production building category
-- Combines agricultural production with potential economic bonus

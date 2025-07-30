@@ -11,16 +11,6 @@ Production:
 Build Cost:
 - 80 Water
 
-Special Effects:
+Upgrades:
 - Sawmill production: Boosts production by 25%
 - Friendly lumberjacks: Provides a 20% boost to the production of neighboring tiles
-
-Additional Notes:
-- This is an upgraded version of the basic Tree
-- Same Cycle as basic version but much higher Capacity (1000 vs 200)
-- Much higher water cost (80 vs 25) for construction
-- No longer has "limited yield" - produces indefinitely
-- Provides area-of-effect bonus to nearby production buildings (20% boost to neighbors)
-- The neighboring tile bonus makes placement strategy important for maximum efficiency
-- Part of the Established Production building category
-- Acts as both a production building and a support building for nearby structures

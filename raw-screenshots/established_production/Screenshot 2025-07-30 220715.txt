@@ -5,23 +5,13 @@ Building Information:
 - Capacity: 1000
 
 Production:
-- Produces: 1 Iron Ore per cycle
+- Produces: 1 Ore per cycle
 - Description: Produces ore.
 
 Build Cost:
-- 50 Food
-- 25 Wood
+- 50 Wood
+- 25 Wheat
 
-Special Effects:
+Upgrades:
 - Troop inspiration: Passively increases damage dealt by and HP of [Warrior] troops by 5%
 - Iron Mine production: Boosts production by 30%
-
-Additional Notes:
-- This is an upgraded version of the basic Iron Mine
-- Higher construction cost and longer build time than basic version
-- Higher Capacity (1000 vs 200)
-- No longer has "limited yield" - produces indefinitely
-- Provides passive military enhancement specifically to Warrior-type troops
-- The troop inspiration effect makes this valuable for military campaigns
-- Part of the Established Production building category
-- Combines resource production with military combat benefits

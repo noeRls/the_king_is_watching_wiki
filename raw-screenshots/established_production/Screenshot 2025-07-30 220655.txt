@@ -9,18 +9,9 @@ Production:
 - Description: Produces clay.
 
 Build Cost:
-- 30 Wood
-- 40 Food
+- 30 Wheat
+- 40 Wood
 
-Special Effects:
+Upgrades:
 - Zero waste: 10% chance of repairing your castle for 1 HP with each production cycle
 - Clay Mine production: Boosts production by 35%
-
-Additional Notes:
-- This is an upgraded version of the basic Clay Mine
-- Higher Capacity (1000 vs 200) and longer build time (1s vs 0.80s)
-- More expensive construction cost compared to basic version
-- No longer has "limited yield" - produces indefinitely
-- Includes beneficial special effects not present in basic version
-- Part of the Established Production building category
-- Provides both resource production and defensive benefits to your castle

@@ -9,20 +9,10 @@ Production:
 - Description: Produces crystals.
 
 Build Cost:
-- 55 Wood
-- 25 Stone
-- 25 Food
+- 55 Gold
+- 25 Ore
+- 25 Wood
 
-Special Effects:
+Upgrades:
 - Magic aura: Passively increases spell damage dealt by 5%
 - Crystal Mine production: Boosts production by 30%
-
-Additional Notes:
-- This is an upgraded version of the basic Crystal Mine
-- Higher construction cost and longer build time than basic version
-- Higher Capacity (1000 vs 200)
-- No longer has "limited yield" - produces indefinitely
-- Provides passive magical enhancement to spell damage
-- The magic aura effect makes this valuable for magical warfare and spellcasting units
-- Part of the Established Production building category
-- Combines resource production with magical combat benefits
