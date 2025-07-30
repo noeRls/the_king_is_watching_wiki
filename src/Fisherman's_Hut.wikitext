@@ -1,18 +1,21 @@
-{{Infobox building
+{{Building
 | name = Fisherman's Hut
-| image = [[File:Fishermans_hut.png]]
-| category = Advanced Production
+| image = N/A
+| category = [[Advanced Production]]
 | cycle = 3s
 | capacity = N/A
-| build_cost = 550 [[Water]], 150 [[Wood]]
+| produce_per_cycle = 1 {{RessourceIcon|type=meat}}
+| consume_per_cycle = 5 {{RessourceIcon|type=water}}
+| build_cost = 550 {{RessourceIcon|type=water}}, 150 {{RessourceIcon|type=wood}}
 | description = Produces Meat.
 }}
 
-The '''Fisherman's Hut''' is a building in the [[Advanced Production]] category. It produces [[Meat]].
-
-== Production ==
-The Fisherman's Hut consumes 5 [[Water]] to produce 1 [[Meat]].
-
 == Upgrades ==
-* '''Production speed:''' Boosts production by 30%.
-* '''Quality lure:''' 50% chance of receiving extra 2 [[Meat]] with each production cycle.
+{{Upgrade
+| name = Production speed
+| description = Boosts production by 30%.
+}}
+{{Upgrade
+| name = Quality lure
+| description = 50% chance of receiving extra 2 {{RessourceIcon|type=meat}} with each production cycle.
+}}

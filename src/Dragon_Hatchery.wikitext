@@ -1,22 +1,19 @@
-{{Infobox building
+{{Building
 | name = Dragon Hatchery
-| image = [[File:Dragon_hatchery.png]]
-| category = Elite Barracks
+| image = N/A
+| category = [[Elite Barracks]]
 | cycle = 25s
 | capacity = 2
-| build_cost = 50 [[Gold]], 120 [[Wood]], 160 [[Flour]]
+| produce_per_cycle = 1 [[Flour Dragon]]
+| consume_per_cycle = 40 {{RessourceIcon|type=flour}}
+| build_cost = 50 {{RessourceIcon|type=gold}}, 120 {{RessourceIcon|type=wood}}, 160 {{RessourceIcon|type=flour}}
 | description = Produces Flour Dragons.
 }}
 
-The '''Dragon Hatchery''' is a building in the [[Elite Barracks]] category. It is used to produce [[Flour Dragon]]s.
-
-== Production ==
-The Dragon Hatchery produces one [[Flour Dragon]] every 25 seconds. It consumes 40 [[Flour]] per cycle.
-
 == Flour Dragon ==
-{{Infobox unit
+{{Unit
 | name = Flour Dragon
-| image = 
+| image = N/A
 | type = Flying, Champion
 | hp = 450
 | dps = 33
@@ -24,6 +21,15 @@ The Dragon Hatchery produces one [[Flour Dragon]] every 25 seconds. It consumes 
 }}
 
 == Upgrades ==
-* '''Production Speed:''' Boosts production by 70%.
-* '''HP and Attack Speed:''' Increases Flour Dragons' HP and attack speed by 30%.
-* '''Dragons' Capacity:''' Increases capacity by 2.
+{{Upgrade
+| name = Production Speed
+| description = Boosts production by 70%.
+}}
+{{Upgrade
+| name = HP and Attack Speed
+| description = Increases Flour Dragons' HP and attack speed by 30%.
+}}
+{{Upgrade
+| name = Dragons' Capacity
+| description = Increases capacity by 2.
+}}

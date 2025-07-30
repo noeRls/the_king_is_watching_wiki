@@ -1,22 +1,19 @@
-{{Infobox building
+{{Building
 | name = Militia Camp
-| image = [[File:Militia_camp.png]]
-| category = Levy Barracks
+| image = N/A
+| category = [[Levy Barracks]]
 | cycle = 15s
 | capacity = 3
-| build_cost = 120 [[Wood]], 30 [[Wheat]], 30 [[Gold]]
+| produce_per_cycle = 1 [[Militia]]
+| consume_per_cycle = 12 {{RessourceIcon|type=wheat}}, 15 {{RessourceIcon|type=wood}}
+| build_cost = 120 {{RessourceIcon|type=wood}}, 30 {{RessourceIcon|type=wheat}}, 30 {{RessourceIcon|type=gold}}
 | description = Recruits militia.
 }}
 
-The '''Militia Camp''' is a building in the [[Levy Barracks]] category. It is used to recruit [[Militia]].
-
-== Production ==
-The Militia Camp produces one [[Militia]] every 15 seconds. It consumes 12 [[Wheat]] and 15 [[Wood]] per cycle.
-
 == Militia ==
-{{Infobox unit
+{{Unit
 | name = Militia
-| image = 
+| image = N/A
 | type = Warrior
 | hp = 140
 | dps = 7
@@ -24,6 +21,15 @@ The Militia Camp produces one [[Militia]] every 15 seconds. It consumes 12 [[Whe
 }}
 
 == Upgrades ==
-* '''Militia HP:''' Increases militia HP by 50%.
-* '''Militia Capacity:''' Increases capacity by 2.
-* '''Mega Dude:''' Produces a MEGA militia after recruiting 4 base troops.
+{{Upgrade
+| name = Militia HP
+| description = Increases militia HP by 50%.
+}}
+{{Upgrade
+| name = Militia Capacity
+| description = Increases capacity by 2.
+}}
+{{Upgrade
+| name = Mega Dude
+| description = Produces a MEGA militia after recruiting 4 base troops.
+}}

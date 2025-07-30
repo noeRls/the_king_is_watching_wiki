@@ -1,0 +1,17 @@
+<includeonly>{| class="wikitable"
+|+ {{{name}}}
+! Image
+| [[File:{{{image}}}|200px]]
+|-
+! Type
+| {{{type}}}
+|-
+! HP
+| {{{hp}}}
+|-
+! DPS/Heal
+| {{{dps|{{{heal}}}}}}
+|-
+! Trait
+| {{{trait}}}
+|}</includeonly>

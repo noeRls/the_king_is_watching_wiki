@@ -1,22 +1,19 @@
-{{Infobox building
+{{Building
 | name = Swordsmen Barracks
-| image = [[File:Swordsmen_barracks.png]]
-| category = Levy Barracks
+| image = N/A
+| category = [[Levy Barracks]]
 | cycle = 10s
 | capacity = 4
-| build_cost = 15 [[Wheat]], 100 [[Wood]], 50 [[Ore]]
+| produce_per_cycle = 1 [[Swordsman]]
+| consume_per_cycle = 10 {{RessourceIcon|type=wheat}}, 8 [[Ore]]
+| build_cost = 15 {{RessourceIcon|type=wheat}}, 100 {{RessourceIcon|type=wood}}, 50 [[Ore]]
 | description = Recruits swordsmen.
 }}
 
-The '''Swordsmen Barracks''' is a building in the [[Levy Barracks]] category. It is used to recruit [[Swordsman|Swordsmen]].
-
-== Production ==
-The Swordsmen Barracks produces one [[Swordsman]] every 10 seconds. It consumes 10 [[Wheat]] and 8 [[Ore]] per cycle.
-
 == Swordsman ==
-{{Infobox unit
+{{Unit
 | name = Swordsman
-| image = 
+| image = N/A
 | type = Warrior
 | hp = 80
 | dps = 13
@@ -24,5 +21,11 @@ The Swordsmen Barracks produces one [[Swordsman]] every 10 seconds. It consumes 
 }}
 
 == Upgrades ==
-* '''Damage dealt by Swordsmen:''' Increases damage dealt by swordsmen by 100%.
-* '''Swordsmen's capacity:''' Increases capacity by 2.
+{{Upgrade
+| name = Damage dealt by Swordsmen
+| description = Increases damage dealt by swordsmen by 100%.
+}}
+{{Upgrade
+| name = Swordsmen's capacity
+| description = Increases capacity by 2.
+}}

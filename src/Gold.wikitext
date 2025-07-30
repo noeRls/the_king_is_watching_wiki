@@ -1,6 +1,6 @@
-{{Infobox resource
+{{Resource
 | name = Gold
-| image = 
+| image = N/A
 | description = The primary currency.
 }}
 

@@ -1,22 +1,19 @@
-{{Infobox building
+{{Building
 | name = Archery
-| image = [[File:Archery.png]]
-| category = Levy Barracks
+| image = N/A
+| category = [[Levy Barracks]]
 | cycle = 15s
 | capacity = 3
-| build_cost = 30 [[Ore]], 100 [[Wood]], 30 [[Gold]]
+| produce_per_cycle = 1 [[Crossbowman]]
+| consume_per_cycle = 10 {{RessourceIcon|type=wheat}}, 8 {{RessourceIcon|type=gold}}
+| build_cost = 30 [[Ore]], 100 {{RessourceIcon|type=wood}}, 30 {{RessourceIcon|type=gold}}
 | description = Recruits crossbowmen.
 }}
 
-The '''Archery''' is a building in the [[Levy Barracks]] category. It is used to recruit [[Crossbowman|Crossbowmen]].
-
-== Production ==
-The Archery produces one [[Crossbowman]] every 15 seconds. It consumes 10 [[Wheat]] and 8 [[Gold]] per cycle.
-
 == Crossbowman ==
-{{Infobox unit
+{{Unit
 | name = Crossbowman
-| image = 
+| image = N/A
 | type = Ranged
 | hp = 50
 | dps = 13
@@ -24,6 +21,15 @@ The Archery produces one [[Crossbowman]] every 15 seconds. It consumes 10 [[Whea
 }}
 
 == Upgrades ==
-* '''Precise Shots:''' Archers deal double damage once every 5 attacks.
-* '''Archers' Capacity:''' Increases capacity by 2.
-* '''Stunning Arrows:''' Archers stun enemies at full HP for 2s.
+{{Upgrade
+| name = Precise Shots
+| description = Archers deal double damage once every 5 attacks.
+}}
+{{Upgrade
+| name = Archers' Capacity
+| description = Increases capacity by 2.
+}}
+{{Upgrade
+| name = Stunning Arrows
+| description = Archers stun enemies at full HP for 2s.
+}}

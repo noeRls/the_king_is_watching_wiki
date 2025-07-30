@@ -1,6 +1,6 @@
-{{Infobox resource
+{{Resource
 | name = Fuel
-| image = 
+| image = N/A
 | description = An advanced resource for powerful buildings.
 }}
 

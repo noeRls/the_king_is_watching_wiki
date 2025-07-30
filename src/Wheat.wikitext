@@ -1,6 +1,6 @@
-{{Infobox resource
+{{Resource
 | name = Wheat
-| image = 
+| image = N/A
 | description = A basic food resource.
 }}
 

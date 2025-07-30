@@ -1,6 +1,6 @@
-{{Infobox resource
+{{Resource
 | name = Wood
-| image = 
+| image = N/A
 | description = A basic building material.
 }}
 

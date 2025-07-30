@@ -1,18 +1,21 @@
-{{Infobox building
+{{Building
 | name = Magic School
-| image = [[File:Magic_school.png]]
-| category = Kingdom Infrastructure
+| image = N/A
+| category = [[Kingdom Infrastructure]]
 | cycle = 110s
 | capacity = N/A
-| build_cost = 50 [[Gold]], 40 [[Wood]]
+| produce_per_cycle = 1 basic spell
+| consume_per_cycle = 30 {{RessourceIcon|type=crystal}}
+| build_cost = 50 {{RessourceIcon|type=gold}}, 40 {{RessourceIcon|type=wood}}
 | description = Slowly generates basic spells.
 }}
 
-The '''Magic School''' is a building in the [[Kingdom Infrastructure]] category.
-
-== Production ==
-The Magic School consumes 30 [[Crystal]] per cycle to generate basic spells.
-
 == Upgrades ==
-* '''Magic School Speed:''' Boosts spell production by 25%.
-* '''Illusion of Choice:''' No longer generates random spells but grants spell choices instead.
+{{Upgrade
+| name = Magic School Speed
+| description = Boosts spell production by 25%.
+}}
+{{Upgrade
+| name = Illusion of Choice
+| description = No longer generates random spells but grants spell choices instead.
+}}

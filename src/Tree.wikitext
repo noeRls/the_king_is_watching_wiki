@@ -1,11 +1,11 @@
-{{Infobox building
+{{Building
 | name = Tree
-| image = [[File:Tree.png]]
-| category = Basic Production
+| image = N/A
+| category = [[Basic Production]]
 | cycle = 0.80s
 | capacity = 200
-| build_cost = 25 [[Water]]
+| produce_per_cycle = 1 {{RessourceIcon|type=wood}}
+| consume_per_cycle = N/A
+| build_cost = 25 {{RessourceIcon|type=water}}
 | description = Produces wood. Tile's yield is limited.
 }}
-
-The '''Tree''' is a building in the [[Basic Production]] category. It produces [[Wood]].

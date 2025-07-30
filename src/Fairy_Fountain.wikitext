@@ -1,15 +1,21 @@
-{{Infobox building
+{{Building
 | name = Fairy Fountain
-| image = [[File:Fairy_fountain.png]]
-| category = Kingdom Infrastructure
+| image = N/A
+| category = [[Kingdom Infrastructure]]
 | cycle = 10s
 | capacity = N/A
-| build_cost = 400 [[Water]], 90 [[Gold]]
+| produce_per_cycle = 1 random resource
+| consume_per_cycle = N/A
+| build_cost = 400 {{RessourceIcon|type=water}}, 90 {{RessourceIcon|type=gold}}
 | description = Does not need to be watched to work. Can produce any resource at random.
 }}
 
-The '''Fairy Fountain''' is a building in the [[Kingdom Infrastructure]] category.
-
 == Upgrades ==
-* '''Production Speed:''' Boosts production by 25%.
-* '''Anti-goblin Dust:''' Starts damaging enemies with each production cycle for 15 damage.
+{{Upgrade
+| name = Production Speed
+| description = Boosts production by 25%.
+}}
+{{Upgrade
+| name = Anti-goblin Dust
+| description = Starts damaging enemies with each production cycle for 15 damage.
+}}

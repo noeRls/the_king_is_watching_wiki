@@ -1,6 +1,6 @@
-{{Infobox resource
+{{Resource
 | name = Meat
-| image = 
+| image = N/A
 | description = A food resource for elite units.
 }}
 

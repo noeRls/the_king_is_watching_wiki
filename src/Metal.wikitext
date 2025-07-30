@@ -1,10 +1,10 @@
-{{Infobox resource
+{{Resource
 | name = Metal
-| image = 
+| image = N/A
 | description = A refined material used for advanced construction and units.
 }}
 
-'''Metal''' is an advanced resource produced from [[Iron Ore]].
+'''Metal''' is an advanced resource produced from {{RessourceIcon|type=iron_ore}}.
 
 == How to Obtain ==
 * [[Forge]]

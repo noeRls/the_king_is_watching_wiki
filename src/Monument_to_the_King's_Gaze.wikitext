@@ -1,15 +1,21 @@
-{{Infobox building
+{{Building
 | name = Monument to the King's Gaze
-| image = [[File:Monument_to_kings_gaze.png]]
-| category = Kingdom Infrastructure
+| image = N/A
+| category = [[Kingdom Infrastructure]]
 | cycle = N/A
 | capacity = N/A
-| build_cost = 200 [[Crystal]], 100 [[Metal]], 500 [[Gold]]
+| produce_per_cycle = N/A
+| consume_per_cycle = N/A
+| build_cost = 200 {{RessourceIcon|type=crystal}}, 100 {{RessourceIcon|type=metal}}, 500 {{RessourceIcon|type=gold}}
 | description = Adjacent improvements start working without needing to watch them.
 }}
 
-The '''Monument to the King's Gaze''' is a building in the [[Kingdom Infrastructure]] category.
-
 == Upgrades ==
-* '''Automation effect:''' Adjacent buildings operate automatically without player supervision.
-* '''Radius of influence:''' Affects neighboring tiles/buildings.
+{{Upgrade
+| name = Automation effect
+| description = Adjacent buildings operate automatically without player supervision.
+}}
+{{Upgrade
+| name = Radius of influence
+| description = Affects neighboring tiles/buildings.
+}}

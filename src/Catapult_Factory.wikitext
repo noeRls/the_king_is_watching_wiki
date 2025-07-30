@@ -1,22 +1,19 @@
-{{Infobox building
+{{Building
 | name = Catapult Factory
-| image = [[File:Catapult_factory.png]]
-| category = Elite Barracks
+| image = N/A
+| category = [[Elite Barracks]]
 | cycle = 15s
 | capacity = 1
-| build_cost = 320 [[Wood]], 180 [[Metal]]
+| produce_per_cycle = 1 [[Catapult]]
+| consume_per_cycle = 90 {{RessourceIcon|type=metal}}
+| build_cost = 320 {{RessourceIcon|type=wood}}, 180 {{RessourceIcon|type=metal}}
 | description = Creates Catapults that can shoot from afar and deal damage in an area of effect.
 }}
 
-The '''Catapult Factory''' is a building in the [[Elite Barracks]] category. It is used to create [[Catapult]]s.
-
-== Production ==
-The Catapult Factory produces one [[Catapult]] every 15 seconds. It consumes 90 [[Metal]] per cycle.
-
 == Catapult ==
-{{Infobox unit
+{{Unit
 | name = Catapult
-| image = 
+| image = N/A
 | type = Ranged
 | hp = 150
 | dps = 33
@@ -24,5 +21,11 @@ The Catapult Factory produces one [[Catapult]] every 15 seconds. It consumes 90 
 }}
 
 == Upgrades ==
-* '''Catapult Capacity:''' Increases capacity by 1.
-* '''Stun Chance:''' Catapults have a 20% chance of stunning enemies.
+{{Upgrade
+| name = Catapult Capacity
+| description = Increases capacity by 1.
+}}
+{{Upgrade
+| name = Stun Chance
+| description = Catapults have a 20% chance of stunning enemies.
+}}

@@ -1,17 +1,17 @@
-{{Infobox building
+{{Building
 | name = Hero Statue
-| image = [[File:Hero_statue.png]]
-| category = Kingdom Infrastructure
+| image = N/A
+| category = [[Kingdom Infrastructure]]
 | cycle = 70s
 | capacity = N/A
-| build_cost = 120 [[Crystal]], 120 [[Wood]], 120 [[Gold]]
+| produce_per_cycle = 1 troop stat upgrade
+| consume_per_cycle = 200 {{RessourceIcon|type=wood}}
+| build_cost = 120 {{RessourceIcon|type=crystal}}, 120 {{RessourceIcon|type=wood}}, 120 {{RessourceIcon|type=gold}}
 | description = Provides you with troop stat upgrades.
 }}
 
-The '''Hero Statue''' is a building in the [[Kingdom Infrastructure]] category.
-
-== Production ==
-The Hero Statue consumes 200 [[Wood]] per cycle to provide troop stat upgrades.
-
 == Upgrades ==
-* '''Production Speed:''' Boosts upgrade production by 25%.
+{{Upgrade
+| name = Production Speed
+| description = Boosts upgrade production by 25%.
+}}

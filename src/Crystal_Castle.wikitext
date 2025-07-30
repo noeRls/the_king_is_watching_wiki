@@ -1,22 +1,19 @@
-{{Infobox building
+{{Building
 | name = Crystal Castle
-| image = [[File:Crystal_castle.png]]
-| category = Elite Barracks
+| image = N/A
+| category = [[Elite Barracks]]
 | cycle = 25s
 | capacity = 1
-| build_cost = 400 [[Crystal]], 150 [[Clay]]
+| produce_per_cycle = 1 [[Patricius]]
+| consume_per_cycle = 100 {{RessourceIcon|type=crystal}}
+| build_cost = 400 {{RessourceIcon|type=crystal}}, 150 {{RessourceIcon|type=clay}}
 | description = Produces a strong unit that only functions while this building is active.
 }}
 
-The '''Crystal Castle''' is a building in the [[Elite Barracks]] category. It is used to produce [[Patricius]].
-
-== Production ==
-The Crystal Castle produces one [[Patricius]] every 25 seconds. It consumes 100 [[Crystal]] per cycle.
-
 == Patricius ==
-{{Infobox unit
+{{Unit
 | name = Patricius
-| image = 
+| image = N/A
 | type = Arcane, Champion
 | hp = 700
 | dps = 38
@@ -24,6 +21,15 @@ The Crystal Castle produces one [[Patricius]] every 25 seconds. It consumes 100 
 }}
 
 == Upgrades ==
-* '''Crystal Creatures' HP:''' Increases Crystal Creatures' HP by 200%.
-* '''Damage dealt by Crystal Creatures:''' Increases damage dealt by Crystal Creatures by 100%.
-* '''Independence:''' The units no longer sleep when you aren't looking.
+{{Upgrade
+| name = Crystal Creatures' HP
+| description = Increases Crystal Creatures' HP by 200%.
+}}
+{{Upgrade
+| name = Damage dealt by Crystal Creatures
+| description = Increases damage dealt by Crystal Creatures by 100%.
+}}
+{{Upgrade
+| name = Independence
+| description = The units no longer sleep when you aren't looking.
+}}

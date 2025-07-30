@@ -1,18 +1,21 @@
-{{Infobox building
+{{Building
 | name = Mill
-| image = [[File:Mill.png]]
-| category = Advanced Production
+| image = N/A
+| category = [[Advanced Production]]
 | cycle = 1.50s
 | capacity = N/A
-| build_cost = 40 [[Wood]], 70 [[Gold]], 25 [[Wheat]]
+| produce_per_cycle = 1 {{RessourceIcon|type=flour}}
+| consume_per_cycle = 1 {{RessourceIcon|type=wheat}}
+| build_cost = 40 {{RessourceIcon|type=wood}}, 70 {{RessourceIcon|type=gold}}, 25 {{RessourceIcon|type=wheat}}
 | description = Makes flour out of wheat.
 }}
 
-The '''Mill''' is a building in the [[Advanced Production]] category. It produces [[Flour]] from [[Wheat]].
-
-== Production ==
-The Mill consumes 1 [[Wheat]] to produce 1 [[Flour]].
-
 == Upgrades ==
-* '''Efficient processing:''' Increases efficiency and speed. Now consumes 3 [[Wheat]] to produce 2 [[Flour]].
-* '''Troop inspiration:''' Passively increases damage dealt by and HP of [[Flying]] troops by 5%.
+{{Upgrade
+| name = Efficient processing
+| description = Increases efficiency and speed. Now consumes 3 {{RessourceIcon|type=wheat}} to produce 2 {{RessourceIcon|type=flour}}.
+}}
+{{Upgrade
+| name = Troop inspiration
+| description = Passively increases damage dealt by and HP of [[Flying]] troops by 5%.
+}}

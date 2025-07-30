@@ -1,15 +1,21 @@
-{{Infobox building
+{{Building
 | name = Market
-| image = [[File:Market.png]]
-| category = Advanced Production
+| image = N/A
+| category = [[Advanced Production]]
 | cycle = 1s
 | capacity = N/A
-| build_cost = 40 [[Wood]], 30 [[Wheat]]
+| produce_per_cycle = N/A
+| consume_per_cycle = N/A
+| build_cost = 40 {{RessourceIcon|type=wood}}, 30 {{RessourceIcon|type=wheat}}
 | description = Sells selected resources while active.
 }}
 
-The '''Market''' is a building in the [[Advanced Production]] category. It allows the player to sell resources.
-
 == Upgrades ==
-* '''Faster trading:''' Boosts production by 25%.
-* '''Charismatic traders:''' Each active market provides 5 morale.
+{{Upgrade
+| name = Faster trading
+| description = Boosts production by 25%.
+}}
+{{Upgrade
+| name = Charismatic traders
+| description = Each active market provides 5 morale.
+}}

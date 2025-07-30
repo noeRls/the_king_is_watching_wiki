@@ -1,0 +1,26 @@
+<includeonly>{| class="wikitable"
+|+ {{{name}}}
+! Image
+| [[File:{{{image}}}|200px]]
+|-
+! Category
+| {{{category}}}
+|-
+! Cycle
+| {{{cycle}}}
+|-
+! Capacity
+| {{{capacity}}}
+|-
+! Produces per cycle
+| {{{produce_per_cycle}}}
+|-
+! Consumes per cycle
+| {{{consume_per_cycle}}}
+|-
+! Build Cost
+| {{{build_cost}}}
+|-
+! Description
+| {{{description}}}
+|}</includeonly>

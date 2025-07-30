@@ -1,0 +1,1 @@
+<includeonly>[[File:{{{type}}}.png|20px|link={{{type}}}]] [[{{{type}}}]]</includeonly>

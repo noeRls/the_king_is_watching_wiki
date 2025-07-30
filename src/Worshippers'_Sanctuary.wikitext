@@ -1,15 +1,21 @@
-{{Infobox building
+{{Building
 | name = Worshipper's Sanctuary
-| image = [[File:Worshippers_sanctuary.png]]
-| category = Kingdom Infrastructure
+| image = N/A
+| category = [[Kingdom Infrastructure]]
 | cycle = 30s
 | capacity = N/A
-| build_cost = 100 [[Wood]], 90 [[Clay]], 30 [[Gold]]
+| produce_per_cycle = 1 permanent morale
+| consume_per_cycle = 1 Black Sheep
+| build_cost = 100 {{RessourceIcon|type=wood}}, 90 {{RessourceIcon|type=clay}}, 30 {{RessourceIcon|type=gold}}
 | description = Sacrifices Black Sheep. Receive permanent morale (1) for each sheep sacrificed.
 }}
 
-The '''Worshipper's Sanctuary''' is a building in the [[Kingdom Infrastructure]] category.
-
 == Upgrades ==
-* '''Higher Morale:''' Boosts morale obtained from sacrificing the sheep by 1. Morale gained before the upgrade is unchanged.
-* '''Production Speed:''' Boosts production by 25%.
+{{Upgrade
+| name = Higher Morale
+| description = Boosts morale obtained from sacrificing the sheep by 1. Morale gained before the upgrade is unchanged.
+}}
+{{Upgrade
+| name = Production Speed
+| description = Boosts production by 25%.
+}}

@@ -1,10 +1,10 @@
-{{Infobox resource
+{{Resource
 | name = Flour
-| image = 
+| image = N/A
 | description = A refined food resource.
 }}
 
-'''Flour''' is a refined food resource made from [[Wheat]].
+'''Flour''' is a refined food resource made from {{RessourceIcon|type=wheat}}.
 
 == How to Obtain ==
 * [[Mill]]

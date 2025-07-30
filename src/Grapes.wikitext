@@ -1,6 +1,6 @@
-{{Infobox resource
+{{Resource
 | name = Grapes
-| image = 
+| image = N/A
 | description = A resource used to produce other goods.
 }}
 

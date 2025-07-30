@@ -1,6 +1,6 @@
-{{Infobox resource
+{{Resource
 | name = Water
-| image = 
+| image = N/A
 | description = A fundamental resource for life and production.
 }}
 

@@ -1,15 +1,21 @@
-{{Infobox building
+{{Building
 | name = Sawmill (Established)
-| image = [[File:Sawmill_established.png]]
-| category = Established Production
+| image = N/A
+| category = [[Established Production]]
 | cycle = 0.80s
 | capacity = 1000
-| build_cost = 80 [[Water]]
+| produce_per_cycle = 1 {{RessourceIcon|type=wood}}
+| consume_per_cycle = N/A
+| build_cost = 80 {{RessourceIcon|type=water}}
 | description = Produces wood.
 }}
 
-The '''Sawmill (Established)''' is a building in the [[Established Production]] category. It produces [[Wood]].
-
 == Upgrades ==
-* '''Sawmill production:''' Boosts production by 25%.
-* '''Friendly lumberjacks:''' Provides a 20% boost to the production of neighboring tiles.
+{{Upgrade
+| name = Sawmill production
+| description = Boosts production by 25%.
+}}
+{{Upgrade
+| name = Friendly lumberjacks
+| description = Provides a 20% boost to the production of neighboring tiles.
+}}

@@ -1,15 +1,21 @@
-{{Infobox building
+{{Building
 | name = Clay Mine (Established)
-| image = [[File:Clay_mine_established.png]]
-| category = Established Production
+| image = N/A
+| category = [[Established Production]]
 | cycle = 1s
 | capacity = 1000
-| build_cost = 30 [[Wheat]], 40 [[Wood]]
+| produce_per_cycle = 1 {{RessourceIcon|type=clay}}
+| consume_per_cycle = N/A
+| build_cost = 30 {{RessourceIcon|type=wheat}}, 40 {{RessourceIcon|type=wood}}
 | description = Produces clay.
 }}
 
-The '''Clay Mine (Established)''' is a building in the [[Established Production]] category. It produces [[Clay]].
-
 == Upgrades ==
-* '''Zero waste:''' 10% chance of repairing your castle for 1 HP with each production cycle.
-* '''Clay Mine production:''' Boosts production by 35%.
+{{Upgrade
+| name = Zero waste
+| description = 10% chance of repairing your castle for 1 HP with each production cycle.
+}}
+{{Upgrade
+| name = Clay Mine production
+| description = Boosts production by 35%.
+}}

@@ -1,18 +1,21 @@
-{{Infobox building
+{{Building
 | name = Brick Factory
-| image = [[File:Brick_factory.png]]
-| category = Kingdom Infrastructure
+| image = N/A
+| category = [[Kingdom Infrastructure]]
 | cycle = 4s
 | capacity = N/A
-| build_cost = 70 [[Wood]], 70 [[Clay]]
+| produce_per_cycle = Repairs castle walls
+| consume_per_cycle = 3 {{RessourceIcon|type=clay}}
+| build_cost = 70 {{RessourceIcon|type=wood}}, 70 {{RessourceIcon|type=clay}}
 | description = Repairs the castle walls.
 }}
 
-The '''Brick Factory''' is a building in the [[Kingdom Infrastructure]] category.
-
-== Production ==
-The Brick Factory consumes 3 [[Clay]] per cycle to repair the castle walls.
-
 == Upgrades ==
-* '''Repair Speed:''' Boosts production by 100%.
-* '''Fortifications:''' When the HP of the castle is full, the building will accumulate charges. Once 20 charges are gathered, the charges are spent and the max HP of the castle is increased by 1. A maximum of 100 HP can be earned this way.
+{{Upgrade
+| name = Repair Speed
+| description = Boosts production by 100%.
+}}
+{{Upgrade
+| name = Fortifications
+| description = When the HP of the castle is full, the building will accumulate charges. Once 20 charges are gathered, the charges are spent and the max HP of the castle is increased by 1. A maximum of 100 HP can be earned this way.
+}}

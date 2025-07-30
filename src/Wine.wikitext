@@ -1,6 +1,6 @@
-{{Infobox resource
+{{Resource
 | name = Wine
-| image = 
+| image = N/A
 | description = A luxury resource.
 }}
 

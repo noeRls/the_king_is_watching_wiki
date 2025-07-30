@@ -1,18 +1,21 @@
-{{Infobox building
+{{Building
 | name = Magic College
-| image = [[File:Magic_college.png]]
-| category = Kingdom Infrastructure
+| image = N/A
+| category = [[Kingdom Infrastructure]]
 | cycle = 55s
 | capacity = N/A
-| build_cost = 250 [[Crystal]], 250 [[Gold]]
+| produce_per_cycle = 1 basic spell
+| consume_per_cycle = 45 {{RessourceIcon|type=crystal}}
+| build_cost = 250 {{RessourceIcon|type=crystal}}, 250 {{RessourceIcon|type=gold}}
 | description = Generates basic spells.
 }}
 
-The '''Magic College''' is a building in the [[Kingdom Infrastructure]] category.
-
-== Production ==
-The Magic College consumes 45 [[Crystal]] per cycle to generate basic spells.
-
 == Upgrades ==
-* '''Magic College speed:''' Boosts spell production by 20%.
-* '''Illusion of choice:''' No longer generates random spells but grants spell choices instead.
+{{Upgrade
+| name = Magic College speed
+| description = Boosts spell production by 20%.
+}}
+{{Upgrade
+| name = Illusion of choice
+| description = No longer generates random spells but grants spell choices instead.
+}}

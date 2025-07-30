@@ -1,22 +1,19 @@
-{{Infobox building
+{{Building
 | name = Ballista Factory
-| image = [[File:Ballista_factory.png]]
-| category = Elite Barracks
+| image = N/A
+| category = [[Elite Barracks]]
 | cycle = 15s
 | capacity = 2
-| build_cost = 300 [[Wood]], 200 [[Metal]]
+| produce_per_cycle = 1 [[Ballista]]
+| consume_per_cycle = 80 {{RessourceIcon|type=metal}}
+| build_cost = 300 {{RessourceIcon|type=wood}}, 200 {{RessourceIcon|type=metal}}
 | description = Creates Ballistas that can shoot from afar and slow down the enemy's advance.
 }}
 
-The '''Ballista Factory''' is a building in the [[Elite Barracks]] category. It is used to create [[Ballista]]s.
-
-== Production ==
-The Ballista Factory produces one [[Ballista]] every 15 seconds. It consumes 80 [[Metal]] per cycle.
-
 == Ballista ==
-{{Infobox unit
+{{Unit
 | name = Ballista
-| image = 
+| image = N/A
 | type = Ranged
 | hp = 130
 | dps = 40
@@ -24,5 +21,11 @@ The Ballista Factory produces one [[Ballista]] every 15 seconds. It consumes 80 
 }}
 
 == Upgrades ==
-* '''Damage and Slowness:''' Increases damage dealt by 25% and applies the slow effect to enemies shot.
-* '''Ballista Capacity:''' Increases capacity by 1.
+{{Upgrade
+| name = Damage and Slowness
+| description = Increases damage dealt by 25% and applies the slow effect to enemies shot.
+}}
+{{Upgrade
+| name = Ballista Capacity
+| description = Increases capacity by 1.
+}}

@@ -1,6 +1,6 @@
-{{Infobox resource
+{{Resource
 | name = Oil
-| image = 
+| image = N/A
 | description = An advanced resource.
 }}
 

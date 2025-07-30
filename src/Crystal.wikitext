@@ -1,6 +1,6 @@
-{{Infobox resource
+{{Resource
 | name = Crystal
-| image = 
+| image = N/A
 | description = A magical resource.
 }}
 

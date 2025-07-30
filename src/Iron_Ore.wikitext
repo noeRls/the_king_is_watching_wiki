@@ -1,10 +1,10 @@
-{{Infobox resource
+{{Resource
 | name = Iron Ore
-| image = 
+| image = N/A
 | description = A raw material for metal production.
 }}
 
-'''Iron Ore''' is a raw material used to produce [[Metal]].
+'''Iron Ore''' is a raw material used to produce {{RessourceIcon|type=metal}}.
 
 == How to Obtain ==
 * [[Iron Mine]]

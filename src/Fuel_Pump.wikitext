@@ -1,18 +1,21 @@
-{{Infobox building
+{{Building
 | name = Fuel Pump
-| image = [[File:Fuel_pump.png]]
-| category = Advanced Production
+| image = N/A
+| category = [[Advanced Production]]
 | cycle = 2s
 | capacity = N/A
-| build_cost = 100 [[Wood]], 100 [[Ore]], 50 [[Metal]]
+| produce_per_cycle = 1 {{RessourceIcon|type=fuel}}
+| consume_per_cycle = 1 {{RessourceIcon|type=water}}, 1 {{RessourceIcon|type=wood}}
+| build_cost = 100 {{RessourceIcon|type=wood}}, 100 [[Ore]], 50 {{RessourceIcon|type=metal}}
 | description = Produces Fuel.
 }}
 
-The '''Fuel Pump''' is a building in the [[Advanced Production]] category. It produces [[Fuel]].
-
-== Production ==
-The Fuel Pump consumes 1 [[Water]] and 1 [[Wood]] to produce 1 [[Fuel]].
-
 == Upgrades ==
-* '''Production speed:''' Boosts production by 30%.
-* '''Gifts of the earth:''' Receive a 20% chance of producing a random extra resource.
+{{Upgrade
+| name = Production speed
+| description = Boosts production by 30%.
+}}
+{{Upgrade
+| name = Gifts of the earth
+| description = Receive a 20% chance of producing a random extra resource.
+}}

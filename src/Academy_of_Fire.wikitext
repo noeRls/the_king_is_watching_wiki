@@ -1,22 +1,19 @@
-{{Infobox building
+{{Building
 | name = Academy of Fire
-| image = [[File:Academy_of_fire.png]]
-| category = Veteran Barracks
+| image = N/A
+| category = [[Veteran Barracks]]
 | cycle = 15s
 | capacity = 3
-| build_cost = 130 [[Wood]], 55 [[Metal]], 100 [[Gold]]
+| produce_per_cycle = 1 [[Fire Mage]]
+| consume_per_cycle = 50 {{RessourceIcon|type=wheat}}
+| build_cost = 130 {{RessourceIcon|type=wood}}, 55 {{RessourceIcon|type=metal}}, 100 {{RessourceIcon|type=gold}}
 | description = Recruits Fire Mages.
 }}
 
-The '''Academy of Fire''' is a building in the [[Veteran Barracks]] category. It is used to recruit [[Fire Mage]]s.
-
-== Production ==
-The Academy of Fire produces one [[Fire Mage]] every 15 seconds. It consumes 50 [[Wheat]] per cycle.
-
 == Fire Mage ==
-{{Infobox unit
+{{Unit
 | name = Fire Mage
-| image = 
+| image = N/A
 | type = Arcane, Ranged
 | hp = 70
 | dps = 29
@@ -24,6 +21,15 @@ The Academy of Fire produces one [[Fire Mage]] every 15 seconds. It consumes 50 
 }}
 
 == Upgrades ==
-* '''Combustion:''' Fireballs set enemies on fire, dealing bonus 6 damage over time.
-* '''Damage dealt by Mages:''' Increases damage dealt by Fire Mages by 50%.
-* '''Fire Mages' Capacity:''' Increases capacity by 2.
+{{Upgrade
+| name = Combustion
+| description = Fireballs set enemies on fire, dealing bonus 6 damage over time.
+}}
+{{Upgrade
+| name = Damage dealt by Mages
+| description = Increases damage dealt by Fire Mages by 50%.
+}}
+{{Upgrade
+| name = Fire Mages' Capacity
+| description = Increases capacity by 2.
+}}

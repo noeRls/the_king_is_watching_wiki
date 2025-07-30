@@ -1,6 +1,6 @@
-{{Infobox resource
+{{Resource
 | name = Clay
-| image = 
+| image = N/A
 | description = A material used for construction.
 }}
 
