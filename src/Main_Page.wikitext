@@ -16,3 +16,7 @@ This wiki is a community-driven project to document everything about the game Th
 == Resources ==
 
 * [[Resources]]
+
+== Units ==
+
+* [[Units]]

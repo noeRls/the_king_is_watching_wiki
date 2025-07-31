@@ -4,20 +4,10 @@
 | category = [[Levy Barracks]]
 | cycle = 10s
 | capacity = 4
-| produce_per_cycle = 1 [[Swordsman]]
-| consume_per_cycle = 10 {{RessourceIcon|type=wheat}}, 8 [[Ore]]
-| build_cost = 15 {{RessourceIcon|type=wheat}}, 100 {{RessourceIcon|type=wood}}, 50 [[Ore]]
+| produce_per_cycle = 1 {{UnitLink|name=Swordsman}}
+| consume_per_cycle = 10 {{RessourceIcon|type=wheat}}, 8 {{RessourceIcon|type=ore}}
+| build_cost = 15 {{RessourceIcon|type=wheat}}, 100 {{RessourceIcon|type=wood}}, 50 {{RessourceIcon|type=ore}}
 | description = Recruits swordsmen.
-}}
-
-== Swordsman ==
-{{Unit
-| name = Swordsman
-| image = N/A
-| type = Warrior
-| hp = 80
-| dps = 13
-| trait = +2% to damage dealt by Swordsmen for each Swordsman on the battlefield.
 }}
 
 == Upgrades ==

@@ -2,14 +2,6 @@
 | name = Oil
 | image = N/A
 | description = An advanced resource.
+| obtained_from = '''Unknown'''
+| used_for = [[Black Unicorn Field]], [[Dragons' Bakery]], [[Tile Enchanter (Legendary)]]
 }}
-
-'''Oil''' is an advanced resource.
-
-== How to Obtain ==
-* '''Unknown'''
-
-== Used For ==
-* [[Black Unicorn Field]]
-* [[Dragons' Bakery]]
-* [[Tile Enchanter (Legendary)]]

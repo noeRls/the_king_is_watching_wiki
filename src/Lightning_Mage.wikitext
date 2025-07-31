@@ -1,0 +1,12 @@
+{{Unit
+| name = Lightning Mage
+| image = N/A
+| type = Arcane, Ranged
+| hp = 100
+| dps = 27
+| trait = +5% to spell damage dealt by each Lightning Mage on the battlefield.
+}}
+
+== How to Obtain ==
+* [[Academy of Lightning]]
+[[Category:Units]]

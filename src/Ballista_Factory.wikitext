@@ -4,20 +4,10 @@
 | category = [[Elite Barracks]]
 | cycle = 15s
 | capacity = 2
-| produce_per_cycle = 1 [[Ballista]]
+| produce_per_cycle = 1 {{UnitLink|name=Ballista}}
 | consume_per_cycle = 80 {{RessourceIcon|type=metal}}
 | build_cost = 300 {{RessourceIcon|type=wood}}, 200 {{RessourceIcon|type=metal}}
 | description = Creates Ballistas that can shoot from afar and slow down the enemy's advance.
-}}
-
-== Ballista ==
-{{Unit
-| name = Ballista
-| image = N/A
-| type = Ranged
-| hp = 130
-| dps = 40
-| trait = +10% to HP of [Flying] troops for each Ballista on the battlefield, up to 100%.
 }}
 
 == Upgrades ==

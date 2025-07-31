@@ -2,18 +2,6 @@
 | name = Metal
 | image = N/A
 | description = A refined material used for advanced construction and units.
+| obtained_from = [[Forge]]
+| used_for = [[Academy of Nature]], [[Academy of Fire]], [[Ballista Factory]], [[Catapult Factory]], [[Academy of Lightning]], [[Monument to the King's Gaze]], [[Fuel Pump]]
 }}
-
-'''Metal''' is an advanced resource produced from {{RessourceIcon|type=iron_ore}}.
-
-== How to Obtain ==
-* [[Forge]]
-
-== Used For ==
-* [[Academy of Nature]]
-* [[Academy of Fire]]
-* [[Ballista Factory]]
-* [[Catapult Factory]]
-* [[Academy of Lightning]]
-* [[Monument to the King's Gaze]]
-* [[Fuel Pump]]

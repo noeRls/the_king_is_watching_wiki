@@ -2,18 +2,6 @@
 | name = Iron Ore
 | image = N/A
 | description = A raw material for metal production.
+| obtained_from = [[Iron Mine]], [[Iron Mine (Established)]]
+| used_for = [[Crystal Mine]], [[Swordsmen Barracks]], [[Archery]], [[King's Statue]], [[Fuel Pump]], [[Forge]]
 }}
-
-'''Iron Ore''' is a raw material used to produce {{RessourceIcon|type=metal}}.
-
-== How to Obtain ==
-* [[Iron Mine]]
-* [[Iron Mine (Established)]]
-
-== Used For ==
-* [[Crystal Mine]]
-* [[Swordsmen Barracks]]
-* [[Archery]]
-* [[King's Statue]]
-* [[Fuel Pump]]
-* [[Forge]]

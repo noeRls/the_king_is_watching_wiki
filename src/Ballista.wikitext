@@ -1,0 +1,12 @@
+{{Unit
+| name = Ballista
+| image = N/A
+| type = Ranged
+| hp = 130
+| dps = 40
+| trait = +10% to HP of [Flying] troops for each Ballista on the battlefield, up to 100%.
+}}
+
+== How to Obtain ==
+* [[Ballista Factory]]
+[[Category:Units]]

@@ -4,20 +4,10 @@
 | category = [[Elite Barracks]]
 | cycle = 10s
 | capacity = 4
-| produce_per_cycle = 1 [[Griffin]]
+| produce_per_cycle = 1 {{UnitLink|name=Griffin}}
 | consume_per_cycle = 20 {{RessourceIcon|type=meat}}, 20 {{RessourceIcon|type=wheat}}
 | build_cost = 100 {{RessourceIcon|type=meat}}, 20 {{RessourceIcon|type=wheat}}
 | description = Spawns Griffins.
-}}
-
-== Griffin ==
-{{Unit
-| name = Griffin
-| image = N/A
-| type = Rider, Flying
-| hp = 430
-| dps = 40
-| trait = +2% to HP of Griffins for each Griffin on the battlefield.
 }}
 
 == Upgrades ==

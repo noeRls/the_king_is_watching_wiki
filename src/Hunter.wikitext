@@ -1,0 +1,12 @@
+{{Unit
+| name = Hunter
+| image = N/A
+| type = Warrior, Ranged
+| hp = 99
+| dps = 3
+| trait = +10% to attack speed of [Flying] troops for each Hunter on the battlefield, up to 100%.
+}}
+
+== How to Obtain ==
+* [[Hunters]]
+[[Category:Units]]

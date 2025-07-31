@@ -1,0 +1,11 @@
+{{Unit
+| name = Swordsman
+| image = N/A
+| type = Warrior
+| hp = 80
+| dps = 13
+| trait = +2% to damage dealt by Swordsmen for each Swordsman on the battlefield.
+| produced_by = [[Swordsmen Barracks]]
+}}
+
+[[Category:Units]]

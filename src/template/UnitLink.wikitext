@@ -1,0 +1,1 @@
+<includeonly>{{#if: {{{image|}}} | {{#ifeq: {{{image}}} | N/A | | [[File:{{{name}}}.png|20px|link={{{name}}}]] }} }} [[{{{name}}}]]</includeonly>

@@ -1,0 +1,12 @@
+{{Unit
+| name = Fire Mage
+| image = N/A
+| type = Arcane, Ranged
+| hp = 70
+| dps = 29
+| trait = +5% to damage dealt by [Arcane] troops for each Fire Mage on the battlefield, up to 50%.
+}}
+
+== How to Obtain ==
+* [[Academy of Fire]]
+[[Category:Units]]

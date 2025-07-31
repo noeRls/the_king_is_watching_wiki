@@ -2,10 +2,6 @@
 | name = Grapes
 | image = N/A
 | description = A resource used to produce other goods.
+| obtained_from = [[Grape Bushes]], [[Vineyard (Established)]]
+| used_for = 
 }}
-
-'''Grapes''' are a resource used to produce other goods.
-
-== How to Obtain ==
-* [[Grape Bushes]]
-* [[Vineyard (Established)]]

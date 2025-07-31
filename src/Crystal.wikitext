@@ -2,21 +2,6 @@
 | name = Crystal
 | image = N/A
 | description = A magical resource.
+| obtained_from = [[Crystal Mine]], [[Crystal Mine (Established)]]
+| used_for = [[Academy of Nature]], [[White Unicorn Field]], [[Crystal Castle]], [[Hero Statue]], [[Magic School]], [[Magic College]], [[King's Statue]], [[Monument to the King's Gaze]], [[Tile Enchanter (Epic)]]
 }}
-
-'''Crystal''' is a magical resource used for various purposes.
-
-== How to Obtain ==
-* [[Crystal Mine]]
-* [[Crystal Mine (Established)]]
-
-== Used For ==
-* [[Academy of Nature]]
-* [[White Unicorn Field]]
-* [[Crystal Castle]]
-* [[Hero Statue]]
-* [[Magic School]]
-* [[Magic College]]
-* [[King's Statue]]
-* [[Monument to the King's Gaze]]
-* [[Tile Enchanter (Epic)]]

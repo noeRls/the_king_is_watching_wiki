@@ -2,29 +2,6 @@
 | name = Wheat
 | image = N/A
 | description = A basic food resource.
+| obtained_from = [[Small Wheat Field]], [[Wheat Field (Established)]]
+| used_for = [[Clay Mine]], [[Iron Mine]], [[Grape Bushes]], [[Small Peasants' Hut]], [[Blacksmith's Farm]], [[Swordsmen Barracks]], [[Militia Camp]], [[Hunters]], [[Bone Pit]], [[Archery]], [[Academy of Nature]], [[Academy of Fire]], [[Lion Circus]], [[Academy of Lightning]], [[Dragons' Bakery]], [[Market]], [[Mill]]
 }}
-
-'''Wheat''' is a basic food resource.
-
-== How to Obtain ==
-* [[Small Wheat Field]]
-* [[Wheat Field (Established)]]
-
-== Used For ==
-* [[Clay Mine]]
-* [[Iron Mine]]
-* [[Grape Bushes]]
-* [[Small Peasants' Hut]]
-* [[Blacksmith's Farm]]
-* [[Swordsmen Barracks]]
-* [[Militia Camp]]
-* [[Hunters]]
-* [[Bone Pit]]
-* [[Archery]]
-* [[Academy of Nature]]
-* [[Academy of Fire]]
-* [[Lion Circus]]
-* [[Academy of Lightning]]
-* [[Dragons' Bakery]]
-* [[Market]]
-* [[Mill]]

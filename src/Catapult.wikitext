@@ -1,0 +1,12 @@
+{{Unit
+| name = Catapult
+| image = N/A
+| type = Ranged
+| hp = 150
+| dps = 33
+| trait = +10% to HP of [Grunt] troops for each Catapult on the battlefield, up to 100%.
+}}
+
+== How to Obtain ==
+* [[Catapult Factory]]
+[[Category:Units]]

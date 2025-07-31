@@ -4,20 +4,10 @@
 | category = [[Elite Barracks]]
 | cycle = 17s
 | capacity = 3
-| produce_per_cycle = 1 [[White Unicorn]]
+| produce_per_cycle = 1 {{UnitLink|name=White Unicorn}}
 | consume_per_cycle = 70 {{RessourceIcon|type=crystal}}
 | build_cost = 400 {{RessourceIcon|type=crystal}}
 | description = Spawns White Unicorns.
-}}
-
-== White Unicorn ==
-{{Unit
-| name = White Unicorn
-| image = N/A
-| type = Champion, Arcane
-| hp = 600
-| dps = 38
-| trait = +30% to damage dealt if Black Unicorn is present.
 }}
 
 == Upgrades ==

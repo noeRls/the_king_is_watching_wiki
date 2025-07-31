@@ -2,12 +2,6 @@
 | name = Meat
 | image = N/A
 | description = A food resource for elite units.
+| obtained_from = [[Fisherman's Hut]]
+| used_for = [[Lion Circus]]
 }}
-
-'''Meat''' is a food resource.
-
-== How to Obtain ==
-* [[Fisherman's Hut]]
-
-== Used For ==
-* [[Lion Circus]]

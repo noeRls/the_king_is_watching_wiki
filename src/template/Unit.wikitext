@@ -1,8 +1,8 @@
 <includeonly>{| class="wikitable"
 |+ {{{name}}}
-! Image
+{{#if: {{{image|}}} | {{#ifeq: {{{image}}} | N/A | | ! Image
 | [[File:{{{image}}}|200px]]
-|-
+|-}} }}
 ! Type
 | {{{type}}}
 |-
@@ -14,4 +14,7 @@
 |-
 ! Trait
 | {{{trait}}}
+|-
+! Produced By
+| {{{produced_by}}}
 |}</includeonly>

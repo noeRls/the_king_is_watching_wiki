@@ -2,12 +2,6 @@
 | name = Wine
 | image = N/A
 | description = A luxury resource.
+| obtained_from = '''Unknown'''
+| used_for = [[Black Unicorn Field]]
 }}
-
-'''Wine''' is a luxury resource.
-
-== How to Obtain ==
-* '''Unknown'''
-
-== Used For ==
-* [[Black Unicorn Field]]

@@ -2,12 +2,6 @@
 | name = Flour
 | image = N/A
 | description = A refined food resource.
+| obtained_from = [[Mill]]
+| used_for = [[Dragon Hatchery]]
 }}
-
-'''Flour''' is a refined food resource made from {{RessourceIcon|type=wheat}}.
-
-== How to Obtain ==
-* [[Mill]]
-
-== Used For ==
-* [[Dragon Hatchery]]

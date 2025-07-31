@@ -4,20 +4,10 @@
 | category = [[Elite Barracks]]
 | cycle = 25s
 | capacity = 1
-| produce_per_cycle = 1 [[Patricius]]
+| produce_per_cycle = 1 {{UnitLink|name=Patricius}}
 | consume_per_cycle = 100 {{RessourceIcon|type=crystal}}
 | build_cost = 400 {{RessourceIcon|type=crystal}}, 150 {{RessourceIcon|type=clay}}
 | description = Produces a strong unit that only functions while this building is active.
-}}
-
-== Patricius ==
-{{Unit
-| name = Patricius
-| image = N/A
-| type = Arcane, Champion
-| hp = 700
-| dps = 38
-| trait = Provides 3 mana with each attack.
 }}
 
 == Upgrades ==

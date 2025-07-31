@@ -1,0 +1,12 @@
+{{Unit
+| name = Militia
+| image = N/A
+| type = Warrior
+| hp = 140
+| dps = 7
+| trait = +2% to HP of Militias for each Militia on the battlefield.
+}}
+
+== How to Obtain ==
+* [[Militia Camp]]
+[[Category:Units]]

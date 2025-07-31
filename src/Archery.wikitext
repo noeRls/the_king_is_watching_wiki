@@ -4,20 +4,10 @@
 | category = [[Levy Barracks]]
 | cycle = 15s
 | capacity = 3
-| produce_per_cycle = 1 [[Crossbowman]]
+| produce_per_cycle = 1 {{UnitLink|name=Crossbowman}}
 | consume_per_cycle = 10 {{RessourceIcon|type=wheat}}, 8 {{RessourceIcon|type=gold}}
-| build_cost = 30 [[Ore]], 100 {{RessourceIcon|type=wood}}, 30 {{RessourceIcon|type=gold}}
+| build_cost = 30 {{RessourceIcon|type=ore}}, 100 {{RessourceIcon|type=wood}}, 30 {{RessourceIcon|type=gold}}
 | description = Recruits crossbowmen.
-}}
-
-== Crossbowman ==
-{{Unit
-| name = Crossbowman
-| image = N/A
-| type = Ranged
-| hp = 50
-| dps = 13
-| trait = +4% to HP of [Warrior] troops for each Crossbowman on the battlefield.
 }}
 
 == Upgrades ==

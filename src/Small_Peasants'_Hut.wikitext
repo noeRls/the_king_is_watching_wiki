@@ -4,18 +4,8 @@
 | category = [[Other]]
 | cycle = 10s
 | capacity = 2
-| produce_per_cycle = 1 {{Unit|name=Peasant}}
+| produce_per_cycle = 1 {{UnitLink|name=Peasant}}
 | consume_per_cycle = 8 (unspecified resource)
 | build_cost = 30 {{RessourceIcon|type=water}}, 15 {{RessourceIcon|type=wood}}, 15 {{RessourceIcon|type=wheat}}
 | description = Recruits weak peasants to fight for you.
-}}
-
-== Peasant ==
-{{Unit
-| name = Peasant
-| image = N/A
-| type = Grunt
-| hp = 35
-| dps = 10
-| trait = +1% to all production for each Peasant on the battlefield.
 }}

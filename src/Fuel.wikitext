@@ -2,9 +2,6 @@
 | name = Fuel
 | image = N/A
 | description = An advanced resource for powerful buildings.
+| obtained_from = [[Fuel Pump]]
+| used_for = 
 }}
-
-'''Fuel''' is an advanced resource.
-
-== How to Obtain ==
-* [[Fuel Pump]]

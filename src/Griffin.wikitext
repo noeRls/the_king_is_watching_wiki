@@ -1,0 +1,12 @@
+{{Unit
+| name = Griffin
+| image = N/A
+| type = Rider, Flying
+| hp = 430
+| dps = 40
+| trait = +2% to HP of Griffins for each Griffin on the battlefield.
+}}
+
+== How to Obtain ==
+* [[Lion Circus]]
+[[Category:Units]]

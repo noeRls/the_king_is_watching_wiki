@@ -4,20 +4,10 @@
 | category = [[Levy Barracks]]
 | cycle = 15s
 | capacity = 3
-| produce_per_cycle = 1 [[Militia]]
+| produce_per_cycle = 1 {{UnitLink|name=Militia}}
 | consume_per_cycle = 12 {{RessourceIcon|type=wheat}}, 15 {{RessourceIcon|type=wood}}
 | build_cost = 120 {{RessourceIcon|type=wood}}, 30 {{RessourceIcon|type=wheat}}, 30 {{RessourceIcon|type=gold}}
 | description = Recruits militia.
-}}
-
-== Militia ==
-{{Unit
-| name = Militia
-| image = N/A
-| type = Warrior
-| hp = 140
-| dps = 7
-| trait = +2% to HP of Militias for each Militia on the battlefield.
 }}
 
 == Upgrades ==

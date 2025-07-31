@@ -2,15 +2,6 @@
 | name = Clay
 | image = N/A
 | description = A material used for construction.
+| obtained_from = [[Clay Mine]], [[Clay Mine (Established)]]
+| used_for = [[Crystal Castle]], [[Worshippers' Sanctuary]], [[Brick Factory]]
 }}
-
-'''Clay''' is a material used for construction.
-
-== How to Obtain ==
-* [[Clay Mine]]
-* [[Clay Mine (Established)]]
-
-== Used For ==
-* [[Crystal Castle]]
-* [[Worshippers' Sanctuary]]
-* [[Brick Factory]]

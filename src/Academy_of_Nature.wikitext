@@ -4,20 +4,10 @@
 | category = [[Veteran Barracks]]
 | cycle = 15s
 | capacity = 3
-| produce_per_cycle = 1 [[Healer Mage]]
+| produce_per_cycle = 1 {{UnitLink|name=Healer Mage}}
 | consume_per_cycle = 55 {{RessourceIcon|type=wheat}}
 | build_cost = 120 {{RessourceIcon|type=crystal}}, 55 {{RessourceIcon|type=metal}}, 120 {{RessourceIcon|type=wood}}
 | description = Recruits Healer Mages.
-}}
-
-== Healer Mage ==
-{{Unit
-| name = Healer Mage
-| image = N/A
-| type = Arcane
-| hp = 70
-| heal = 19
-| trait = +5% HP to [Arcane] troops for each Healer Mage on the battlefield, up to 100%.
 }}
 
 == Upgrades ==

@@ -1,0 +1,11 @@
+{{Unit
+| name = Peasant
+| image = N/A
+| type = Grunt
+| hp = 35
+| dps = 10
+| trait = +1% to all production for each Peasant on the battlefield.
+| produced_by = [[Small Peasants' Hut]]
+}}
+
+[[Category:Units]]

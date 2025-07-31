@@ -4,20 +4,10 @@
 | category = [[Levy Barracks]]
 | cycle = 12s
 | capacity = 3
-| produce_per_cycle = 1 [[Small Bones]]
+| produce_per_cycle = 1 {{UnitLink|name=Small Bones}}
 | consume_per_cycle = 13 {{RessourceIcon|type=water}}
 | build_cost = 40 {{RessourceIcon|type=wood}}, 40 {{RessourceIcon|type=wheat}}
 | description = Spawns small skeletons.
-}}
-
-== Small Bones ==
-{{Unit
-| name = Small Bones
-| image = N/A
-| type = Undead, Grunt
-| hp = 45
-| dps = 10
-| trait = +2% to damage dealt by and HP of [Undead] troops for each Small Bones on the battlefield.
 }}
 
 == Upgrades ==

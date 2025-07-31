@@ -4,20 +4,10 @@
 | category = [[Elite Barracks]]
 | cycle = 25s
 | capacity = 2
-| produce_per_cycle = 1 [[Flour Dragon]]
+| produce_per_cycle = 1 {{UnitLink|name=Flour Dragon}}
 | consume_per_cycle = 40 {{RessourceIcon|type=flour}}
 | build_cost = 50 {{RessourceIcon|type=gold}}, 120 {{RessourceIcon|type=wood}}, 160 {{RessourceIcon|type=flour}}
 | description = Produces Flour Dragons.
-}}
-
-== Flour Dragon ==
-{{Unit
-| name = Flour Dragon
-| image = N/A
-| type = Flying, Champion
-| hp = 450
-| dps = 33
-| trait = +1% to damage dealt by and attack speed of all units for each Flour Dragon on the battlefield.
 }}
 
 == Upgrades ==

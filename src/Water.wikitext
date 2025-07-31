@@ -2,20 +2,6 @@
 | name = Water
 | image = N/A
 | description = A fundamental resource for life and production.
+| obtained_from = [[Well]], [[Big Well]]
+| used_for = [[Small Wheat Field]], [[Tree]], [[Small Peasants' Hut]], [[Bone Pit]], [[Fairy Fountain]], [[Research Table]], [[Fisherman's Hut]], [[Fuel Pump]]
 }}
-
-'''Water''' is a fundamental resource used for various purposes.
-
-== How to Obtain ==
-* [[Well]]
-* [[Big Well]]
-
-== Used For ==
-* [[Small Wheat Field]]
-* [[Tree]]
-* [[Small Peasants' Hut]]
-* [[Bone Pit]]
-* [[Fairy Fountain]]
-* [[Research Table]]
-* [[Fisherman's Hut]]
-* [[Fuel Pump]]

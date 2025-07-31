@@ -4,20 +4,10 @@
 | category = [[Elite Barracks]]
 | cycle = 25s
 | capacity = 3
-| produce_per_cycle = 1 [[Lightning Mage]]
+| produce_per_cycle = 1 {{UnitLink|name=Lightning Mage}}
 | consume_per_cycle = 100 {{RessourceIcon|type=wheat}}
 | build_cost = 100 {{RessourceIcon|type=metal}}, 200 {{RessourceIcon|type=wood}}
 | description = Recruits Lightning Mages.
-}}
-
-== Lightning Mage ==
-{{Unit
-| name = Lightning Mage
-| image = N/A
-| type = Arcane, Ranged
-| hp = 100
-| dps = 27
-| trait = +5% to spell damage dealt by each Lightning Mage on the battlefield.
 }}
 
 == Upgrades ==

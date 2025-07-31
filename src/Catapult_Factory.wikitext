@@ -4,20 +4,10 @@
 | category = [[Elite Barracks]]
 | cycle = 15s
 | capacity = 1
-| produce_per_cycle = 1 [[Catapult]]
+| produce_per_cycle = 1 {{UnitLink|name=Catapult}}
 | consume_per_cycle = 90 {{RessourceIcon|type=metal}}
 | build_cost = 320 {{RessourceIcon|type=wood}}, 180 {{RessourceIcon|type=metal}}
 | description = Creates Catapults that can shoot from afar and deal damage in an area of effect.
-}}
-
-== Catapult ==
-{{Unit
-| name = Catapult
-| image = N/A
-| type = Ranged
-| hp = 150
-| dps = 33
-| trait = +10% to HP of [Grunt] troops for each Catapult on the battlefield, up to 100%.
 }}
 
 == Upgrades ==

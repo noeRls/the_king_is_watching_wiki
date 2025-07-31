@@ -4,20 +4,10 @@
 | category = [[Veteran Barracks]]
 | cycle = 15s
 | capacity = 3
-| produce_per_cycle = 1 [[Fire Mage]]
+| produce_per_cycle = 1 {{UnitLink|name=Fire Mage}}
 | consume_per_cycle = 50 {{RessourceIcon|type=wheat}}
 | build_cost = 130 {{RessourceIcon|type=wood}}, 55 {{RessourceIcon|type=metal}}, 100 {{RessourceIcon|type=gold}}
 | description = Recruits Fire Mages.
-}}
-
-== Fire Mage ==
-{{Unit
-| name = Fire Mage
-| image = N/A
-| type = Arcane, Ranged
-| hp = 70
-| dps = 29
-| trait = +5% to damage dealt by [Arcane] troops for each Fire Mage on the battlefield, up to 50%.
 }}
 
 == Upgrades ==

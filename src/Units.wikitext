@@ -1,0 +1,3 @@
+This category contains all the units in the game.
+
+{{#categorytree:Units|mode=pages|depth=0}}
