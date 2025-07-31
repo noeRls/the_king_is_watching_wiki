@@ -1,1 +1,1 @@
-<includeonly>[[Category:{{{category}}}]] [[:Category:{{{category}}}|{{{category}}}]]</includeonly>
+<includeonly>[[Category:{{#replace:{{{category}}}|\ |\_}}]] [[:Category:{{{category}}}|{{{category}}}]]</includeonly>

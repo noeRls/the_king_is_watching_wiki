@@ -1,3 +1,0 @@
-This category contains miscellaneous buildings that don't fit into the other categories.
-
-{{#categorytree:Other|mode=pages|depth=0}}

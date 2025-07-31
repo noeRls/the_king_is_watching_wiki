@@ -1,3 +1,0 @@
-This category contains buildings that produce elite military units.
-
-{{#categorytree:Elite Barracks|mode=pages|depth=0}}

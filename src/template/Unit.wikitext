@@ -1,8 +1,8 @@
 <includeonly>{| class="wikitable"
 |+ {{{name}}}
-{{#if: {{{image|}}} | {{#ifeq: {{{image}}} | N/A | | ! Image
+! Image
 | [[File:{{{image}}}|200px]]
-|-}} }}
+|-
 ! Type
 | {{{type}}}
 |-

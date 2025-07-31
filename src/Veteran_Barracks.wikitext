@@ -1,3 +1,0 @@
-This category contains buildings that produce veteran military units.
-
-{{#categorytree:Veteran Barracks|mode=pages|depth=0}}

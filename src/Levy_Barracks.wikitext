@@ -1,3 +1,0 @@
-This category contains buildings that produce basic military units.
-
-{{#categorytree:Levy Barracks|mode=pages|depth=0}}

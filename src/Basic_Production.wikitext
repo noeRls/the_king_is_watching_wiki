@@ -1,3 +1,0 @@
-This category contains buildings that produce basic resources.
-
-{{#categorytree:Basic Production|mode=pages|depth=0}}

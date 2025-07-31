@@ -1,3 +1,1 @@
 This category contains units of the Rider type.
-
-{{#categorytree:Rider|mode=pages|depth=0}}
