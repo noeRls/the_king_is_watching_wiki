@@ -1,12 +1,11 @@
 {{Unit
 | name = Black Unicorn
 | image = N/A
-| type = Champion, Arcane
+| type = {{TypeLink|type=Champion}}, {{TypeLink|type=Arcane}}
 | hp = 600
 | dps = 33
 | trait = +30% to damage dealt if White Unicorn is present.
+| produced_by = [[Black Unicorn Field]]
 }}
 
-== How to Obtain ==
-* [[Black Unicorn Field]]
 [[Category:Units]]

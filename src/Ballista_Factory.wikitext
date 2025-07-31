@@ -1,7 +1,7 @@
 {{Building
 | name = Ballista Factory
 | image = N/A
-| category = [[Elite Barracks]]
+| category = {{BuildingCategory|category=Elite Barracks}}
 | cycle = 15s
 | capacity = 2
 | produce_per_cycle = 1 {{UnitLink|name=Ballista}}

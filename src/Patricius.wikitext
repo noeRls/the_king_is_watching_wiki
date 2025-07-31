@@ -1,12 +1,11 @@
 {{Unit
 | name = Patricius
 | image = N/A
-| type = Arcane, Champion
+| type = {{TypeLink|type=Arcane}}, {{TypeLink|type=Champion}}
 | hp = 700
 | dps = 38
 | trait = Provides 3 mana with each attack.
+| produced_by = [[Crystal Castle]]
 }}
 
-== How to Obtain ==
-* [[Crystal Castle]]
 [[Category:Units]]

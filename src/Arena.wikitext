@@ -1,7 +1,7 @@
 {{Building
 | name = Arena
 | image = N/A
-| category = [[Kingdom Infrastructure]]
+| category = {{BuildingCategory|category=Kingdom Infrastructure}}
 | cycle = N/A
 | capacity = N/A
 | produce_per_cycle = 25 morale
@@ -13,7 +13,7 @@
 == Upgrades ==
 {{Upgrade
 | name = Fight Betting
-| description = Earns 1 gold every 3s while working.
+| description = Earns 1 {{RessourceIcon|type=gold}} every 3s while working.
 }}
 {{Upgrade
 | name = Higher Morale

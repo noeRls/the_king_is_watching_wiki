@@ -1,7 +1,7 @@
 {{Building
 | name = Mill
 | image = N/A
-| category = [[Advanced Production]]
+| category = {{BuildingCategory|category=Advanced Production}}
 | cycle = 1.50s
 | capacity = N/A
 | produce_per_cycle = 1 {{RessourceIcon|type=flour}}

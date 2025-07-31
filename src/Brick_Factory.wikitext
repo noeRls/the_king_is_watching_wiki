@@ -1,7 +1,7 @@
 {{Building
 | name = Brick Factory
 | image = N/A
-| category = [[Kingdom Infrastructure]]
+| category = {{BuildingCategory|category=Kingdom Infrastructure}}
 | cycle = 4s
 | capacity = N/A
 | produce_per_cycle = Repairs castle walls

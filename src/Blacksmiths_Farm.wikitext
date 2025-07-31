@@ -1,7 +1,7 @@
 {{Building
 | name = Blacksmith's Farm
 | image = N/A
-| category = [[Other]]
+| category = {{BuildingCategory|category=Other}}
 | cycle = 2s
 | capacity = 500
 | produce_per_cycle = 1 {{RessourceIcon|type=ore}}, 1 {{RessourceIcon|type=wheat}}

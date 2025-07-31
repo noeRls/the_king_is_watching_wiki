@@ -1,7 +1,7 @@
 {{Building
 | name = Wheel of Fortune
 | image = N/A
-| category = [[Kingdom Infrastructure]]
+| category = {{BuildingCategory|category=Kingdom Infrastructure}}
 | cycle = 110s
 | capacity = N/A
 | produce_per_cycle = 1 small resource pack

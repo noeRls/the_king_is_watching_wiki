@@ -1,7 +1,7 @@
 {{Unit
 | name = Peasant
 | image = N/A
-| type = Grunt
+| type = {{TypeLink|type=Grunt}}
 | hp = 35
 | dps = 10
 | trait = +1% to all production for each Peasant on the battlefield.

@@ -1,12 +1,11 @@
 {{Unit
 | name = Lightning Mage
 | image = N/A
-| type = Arcane, Ranged
+| type = {{TypeLink|type=Arcane}}, {{TypeLink|type=RessourceIcon|type=Ranged}}
 | hp = 100
 | dps = 27
 | trait = +5% to spell damage dealt by each Lightning Mage on the battlefield.
+| produced_by = [[Academy of Lightning]]
 }}
 
-== How to Obtain ==
-* [[Academy of Lightning]]
 [[Category:Units]]

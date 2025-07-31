@@ -1,12 +1,11 @@
 {{Unit
 | name = Healer Mage
 | image = N/A
-| type = Arcane
+| type = {{TypeLink|type=Arcane}}
 | hp = 70
 | heal = 19
-| trait = +5% HP to [Arcane] troops for each Healer Mage on the battlefield, up to 100%.
+| trait = +5% HP to {{TypeLink|type=Arcane}} troops for each Healer Mage on the battlefield, up to 100%.
+| produced_by = [[Academy of Nature]]
 }}
 
-== How to Obtain ==
-* [[Academy of Nature]]
 [[Category:Units]]

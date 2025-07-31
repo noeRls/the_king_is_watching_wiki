@@ -1,7 +1,7 @@
 {{Building
 | name = Swordsmen Barracks
 | image = N/A
-| category = [[Levy Barracks]]
+| category = {{BuildingCategory|category=Levy Barracks}}
 | cycle = 10s
 | capacity = 4
 | produce_per_cycle = 1 {{UnitLink|name=Swordsman}}

@@ -1,11 +1,11 @@
 {{Building
 | name = Dragons' Bakery
 | image = N/A
-| category = [[Kingdom Infrastructure]]
+| category = {{BuildingCategory|category=Kingdom Infrastructure}}
 | cycle = 59s
 | capacity = N/A
 | produce_per_cycle = 1 Ash Dragon
-| consume_per_cycle = 1 Flour Dragon
+| consume_per_cycle = 1 {{UnitLink|name=Flour Dragon}}
 | build_cost = 10 {{RessourceIcon|type=wheat}}, 50 {{RessourceIcon|type=oil}}
 | description = Bakes Flour Dragons into Ash Dragons.
 }}

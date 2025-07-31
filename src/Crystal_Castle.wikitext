@@ -1,7 +1,7 @@
 {{Building
 | name = Crystal Castle
 | image = N/A
-| category = [[Elite Barracks]]
+| category = {{BuildingCategory|category=Elite Barracks}}
 | cycle = 25s
 | capacity = 1
 | produce_per_cycle = 1 {{UnitLink|name=Patricius}}

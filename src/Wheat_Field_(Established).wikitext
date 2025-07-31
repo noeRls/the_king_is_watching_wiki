@@ -1,7 +1,7 @@
 {{Building
 | name = Wheat Field (Established)
 | image = N/A
-| category = [[Established Production]]
+| category = {{BuildingCategory|category=Established Production}}
 | cycle = 0.80s
 | capacity = 1000
 | produce_per_cycle = 1 {{RessourceIcon|type=wheat}}

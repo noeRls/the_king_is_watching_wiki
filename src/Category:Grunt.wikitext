@@ -1,0 +1,3 @@
+This category contains units of the Grunt type.
+
+{{#categorytree:Grunt|mode=pages|depth=0}}

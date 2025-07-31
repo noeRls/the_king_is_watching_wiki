@@ -1,7 +1,7 @@
 {{Building
 | name = Tile Enchanter (Legendary)
 | image = N/A
-| category = [[Kingdom Infrastructure]]
+| category = {{BuildingCategory|category=Kingdom Infrastructure}}
 | cycle = 15s
 | capacity = N/A
 | produce_per_cycle = 50% boost to production on tile

@@ -1,0 +1,1 @@
+[[Category:{{{type}}}]] {{#if: {{{image|}}} | {{#ifeq: {{{image}}} | N/A | | [[File:{{{type}}}.png|20px|link=Category:{{{type}}}]] }} }} [[:Category:{{{type}}}|{{{type}}}]]

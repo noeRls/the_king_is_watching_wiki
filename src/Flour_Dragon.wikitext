@@ -1,12 +1,11 @@
 {{Unit
 | name = Flour Dragon
 | image = N/A
-| type = Flying, Champion
+| type = {{TypeLink|type=Flying}}, {{TypeLink|type=Champion}}
 | hp = 450
 | dps = 33
 | trait = +1% to damage dealt by and attack speed of all units for each Flour Dragon on the battlefield.
+| produced_by = [[Dragon Hatchery]]
 }}
 
-== How to Obtain ==
-* [[Dragon Hatchery]]
 [[Category:Units]]

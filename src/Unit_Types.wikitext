@@ -1,0 +1,10 @@
+This page lists all the unit types in the game.
+
+* [[Category:Ranged]]
+* [[Category:Champion]]
+* [[Category:Arcane]]
+* [[Category:Flying]]
+* [[Category:Rider]]
+* [[Category:Warrior]]
+* [[Category:Undead]]
+* [[Category:Grunt]]

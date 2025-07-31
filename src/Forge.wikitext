@@ -1,12 +1,12 @@
 {{Building
 | name = Forge
 | image = N/A
-| category = [[Advanced Production]]
+| category = {{BuildingCategory|category=Advanced Production}}
 | cycle = 1.50s
 | capacity = N/A
 | produce_per_cycle = 1 {{RessourceIcon|type=metal}}
 | consume_per_cycle = 1 {{RessourceIcon|type=iron_ore}}
-| build_cost = 55 {{RessourceIcon|type=gold}}, 30 [[Ore]]
+| build_cost = 55 {{RessourceIcon|type=gold}}, 30 {{RessourceIcon|type=ore}}
 | description = Smelts ore into metal.
 }}
 

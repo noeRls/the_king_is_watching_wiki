@@ -1,7 +1,7 @@
 {{Building
 | name = Lion Circus
 | image = N/A
-| category = [[Elite Barracks]]
+| category = {{BuildingCategory|category=Elite Barracks}}
 | cycle = 10s
 | capacity = 4
 | produce_per_cycle = 1 {{UnitLink|name=Griffin}}

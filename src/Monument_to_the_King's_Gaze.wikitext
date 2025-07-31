@@ -1,7 +1,7 @@
 {{Building
 | name = Monument to the King's Gaze
 | image = N/A
-| category = [[Kingdom Infrastructure]]
+| category = {{BuildingCategory|category=Kingdom Infrastructure}}
 | cycle = N/A
 | capacity = N/A
 | produce_per_cycle = N/A

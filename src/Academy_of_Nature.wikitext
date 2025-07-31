@@ -1,7 +1,7 @@
 {{Building
 | name = Academy of Nature
 | image = N/A
-| category = [[Veteran Barracks]]
+| category = {{BuildingCategory|category=Veteran Barracks}}
 | cycle = 15s
 | capacity = 3
 | produce_per_cycle = 1 {{UnitLink|name=Healer Mage}}

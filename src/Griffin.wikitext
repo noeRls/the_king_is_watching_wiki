@@ -1,12 +1,11 @@
 {{Unit
 | name = Griffin
 | image = N/A
-| type = Rider, Flying
+| type = {{TypeLink|type=Rider}}, {{TypeLink|type=Flying}}
 | hp = 430
 | dps = 40
 | trait = +2% to HP of Griffins for each Griffin on the battlefield.
+| produced_by = [[Lion Circus]]
 }}
 
-== How to Obtain ==
-* [[Lion Circus]]
 [[Category:Units]]

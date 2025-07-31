@@ -1,7 +1,7 @@
 {{Building
 | name = Basic Construction
 | image = N/A
-| category = [[Other]]
+| category = {{BuildingCategory|category=Other}}
 | cycle = 30s
 | capacity = N/A
 | produce_per_cycle = N/A

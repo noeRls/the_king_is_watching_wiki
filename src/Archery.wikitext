@@ -1,7 +1,7 @@
 {{Building
 | name = Archery
 | image = N/A
-| category = [[Levy Barracks]]
+| category = {{BuildingCategory|category=Levy Barracks}}
 | cycle = 15s
 | capacity = 3
 | produce_per_cycle = 1 {{UnitLink|name=Crossbowman}}

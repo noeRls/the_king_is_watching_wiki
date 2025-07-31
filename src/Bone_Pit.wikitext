@@ -1,7 +1,7 @@
 {{Building
 | name = Bone Pit
 | image = N/A
-| category = [[Levy Barracks]]
+| category = {{BuildingCategory|category=Levy Barracks}}
 | cycle = 12s
 | capacity = 3
 | produce_per_cycle = 1 {{UnitLink|name=Small Bones}}
@@ -13,9 +13,9 @@
 == Upgrades ==
 {{Upgrade
 | name = Troop Inspiration
-| description = Increases damage dealt by and HP of [Undead] troops by 5%.
+| description = Increases damage dealt by and HP of {{TypeLink|type=Undead}} troops by 5%.
 }}
 {{Upgrade
 | name = Bone Meal
-| description = 90% chance of receiving 5 flour upon Skeleton's death.
+| description = 90% chance of receiving 5 {{RessourceIcon|type=flour}} upon Skeleton's death.
 }}

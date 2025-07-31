@@ -1,0 +1,3 @@
+This category contains units of the Undead type.
+
+{{#categorytree:Undead|mode=pages|depth=0}}

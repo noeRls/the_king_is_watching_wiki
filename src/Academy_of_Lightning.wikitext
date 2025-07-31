@@ -1,7 +1,7 @@
 {{Building
 | name = Academy of Lightning
 | image = N/A
-| category = [[Elite Barracks]]
+| category = {{BuildingCategory|category=Elite Barracks}}
 | cycle = 25s
 | capacity = 3
 | produce_per_cycle = 1 {{UnitLink|name=Lightning Mage}}

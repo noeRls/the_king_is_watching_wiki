@@ -1,12 +1,12 @@
 {{Building
 | name = Crystal Mine (Established)
 | image = N/A
-| category = [[Established Production]]
+| category = {{BuildingCategory|category=Established Production}}
 | cycle = 1s
 | capacity = 1000
 | produce_per_cycle = 1 {{RessourceIcon|type=crystal}}
 | consume_per_cycle = N/A
-| build_cost = 55 {{RessourceIcon|type=gold}}, 25 [[Ore]], 25 {{RessourceIcon|type=wood}}
+| build_cost = 55 {{RessourceIcon|type=gold}}, 25 {{RessourceIcon|type=ore}}, 25 {{RessourceIcon|type=wood}}
 | description = Produces crystals.
 }}
 

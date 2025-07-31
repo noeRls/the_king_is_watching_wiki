@@ -1,7 +1,7 @@
 {{Building
 | name = Fairy Fountain
 | image = N/A
-| category = [[Kingdom Infrastructure]]
+| category = {{BuildingCategory|category=Kingdom Infrastructure}}
 | cycle = 10s
 | capacity = N/A
 | produce_per_cycle = 1 random resource

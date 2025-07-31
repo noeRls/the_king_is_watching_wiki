@@ -1,7 +1,7 @@
 {{Building
 | name = Hospital
 | image = N/A
-| category = [[Kingdom Infrastructure]]
+| category = {{BuildingCategory|category=Kingdom Infrastructure}}
 | cycle = 1s
 | capacity = N/A
 | produce_per_cycle = Heals injured troops

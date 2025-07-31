@@ -1,10 +1,10 @@
 {{Building
 | name = Iron Mine (Established)
 | image = N/A
-| category = [[Established Production]]
+| category = {{BuildingCategory|category=Established Production}}
 | cycle = 1s
 | capacity = 1000
-| produce_per_cycle = 1 [[Ore]]
+| produce_per_cycle = 1 {{RessourceIcon|type=ore}}
 | consume_per_cycle = N/A
 | build_cost = 50 {{RessourceIcon|type=wood}}, 25 {{RessourceIcon|type=wheat}}
 | description = Produces ore.

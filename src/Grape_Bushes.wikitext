@@ -1,7 +1,7 @@
 {{Building
 | name = Grape Bushes
 | image = N/A
-| category = [[Basic Production]]
+| category = {{BuildingCategory|category=Basic Production}}
 | cycle = 0.80s
 | capacity = 200
 | produce_per_cycle = 1 {{RessourceIcon|type=grapes}}

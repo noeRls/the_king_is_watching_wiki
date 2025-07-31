@@ -1,12 +1,11 @@
 {{Unit
 | name = Small Bones
 | image = N/A
-| type = Undead, Grunt
+| type = {{TypeLink|type=Undead}}, {{TypeLink|type=Grunt}}
 | hp = 45
 | dps = 10
-| trait = +2% to damage dealt by and HP of [Undead] troops for each Small Bones on the battlefield.
+| trait = +2% to damage dealt by and HP of {{TypeLink|type=Undead}} troops for each Small Bones on the battlefield.
+| produced_by = [[Bone Pit]]
 }}
 
-== How to Obtain ==
-* [[Bone Pit]]
 [[Category:Units]]

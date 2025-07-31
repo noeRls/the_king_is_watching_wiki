@@ -1,7 +1,7 @@
 {{Building
 | name = White Unicorn Field
 | image = N/A
-| category = [[Elite Barracks]]
+| category = {{BuildingCategory|category=Elite Barracks}}
 | cycle = 17s
 | capacity = 3
 | produce_per_cycle = 1 {{UnitLink|name=White Unicorn}}

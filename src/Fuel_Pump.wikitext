@@ -1,12 +1,12 @@
 {{Building
 | name = Fuel Pump
 | image = N/A
-| category = [[Advanced Production]]
+| category = {{BuildingCategory|category=Advanced Production}}
 | cycle = 2s
 | capacity = N/A
 | produce_per_cycle = 1 {{RessourceIcon|type=fuel}}
 | consume_per_cycle = 1 {{RessourceIcon|type=water}}, 1 {{RessourceIcon|type=wood}}
-| build_cost = 100 {{RessourceIcon|type=wood}}, 100 [[Ore]], 50 {{RessourceIcon|type=metal}}
+| build_cost = 100 {{RessourceIcon|type=wood}}, 100 {{RessourceIcon|type=ore}}, 50 {{RessourceIcon|type=metal}}
 | description = Produces Fuel.
 }}
 

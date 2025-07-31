@@ -1,12 +1,11 @@
 {{Unit
 | name = Crossbowman
 | image = N/A
-| type = Ranged
+| type = {{TypeLink|type=Ranged}}
 | hp = 50
 | dps = 13
-| trait = +4% to HP of [Warrior] troops for each Crossbowman on the battlefield.
+| trait = +4% to HP of {{TypeLink|type=Warrior}} troops for each Crossbowman on the battlefield.
+| produced_by = [[Archery]]
 }}
 
-== How to Obtain ==
-* [[Archery]]
 [[Category:Units]]
