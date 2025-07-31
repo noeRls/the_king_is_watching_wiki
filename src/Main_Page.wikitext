@@ -4,20 +4,20 @@ This wiki is a community-driven project to document everything about the game Th
 
 == Buildings ==
 
-* [[Basic Production]]
-* [[Established Production]]
-* [[Advanced Production]]
-* [[Levy Barracks]]
-* [[Veteran Barracks]]
-* [[Elite Barracks]]
-* [[Kingdom Infrastructure]]
-* [[Other]]
+* [[:Category:Basic Production|Basic Production]]
+* [[:Category:Established Production|Established Production]]
+* [[:Category:Advanced Production|Advanced Production]]
+* [[:Category:Levy Barracks|Levy Barracks]]
+* [[:Category:Veteran Barracks|Veteran Barracks]]
+* [[:Category:Elite Barracks|Elite Barracks]]
+* [[:Category:Kingdom Infrastructure|Kingdom Infrastructure]]
+* [[:Category:Other|Other]]
 
 == Resources ==
 
-* [[Resources]]
+* [[:Category:Resources|Resources]]
 
 == Units ==
 
-* [[Units]]
+* [[:Category:Units|Units]]
 * [[Unit Types]]

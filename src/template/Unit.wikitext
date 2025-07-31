@@ -17,4 +17,5 @@
 |-
 ! Produced By
 | {{{produced_by}}}
-|}</includeonly>
+|}
+[[Category:Units]]</includeonly>

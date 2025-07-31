@@ -11,4 +11,5 @@
 |-
 ! Used For
 | {{{used_for}}}
-|}</includeonly>
+|}
+[[Category:Resources]]</includeonly>
